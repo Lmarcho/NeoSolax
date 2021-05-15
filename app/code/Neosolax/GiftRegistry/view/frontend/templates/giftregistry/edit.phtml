@@ -1,0 +1,49 @@
+<?php
+/** @var Neosolax\GiftRegistry\Block\Giftregistry\Edit $block */
+
+?>
+<?php
+$item = $block->getResult(); ?>
+<h2>Welcome to Edit Giftregistry</h2>
+<form name="giftregistry" id="giftreg" action="<?php echo $block->getEditRecord() . 'giftregid/' . $item->getData('giftregistry_id'); ?>" method="post">
+
+    <label for="title">Giftregistry Type</label><br>
+    <select name="gifttypeid" id="gifttypeid">
+        <?php
+        $collection = $block->getGiftregTypes();
+        foreach ($collection as $type) {
+            ?>
+            <option value=<?php echo $type->getData('type_id'); ?>> <?php echo $type->getData('type_name'); ?> </option>
+            <?php
+        }
+        ?>
+    </select><br><br>
+
+    <label for="title">Gift Registry Title :</label><br>
+    <input type="text" id="title" name="title" value="<?php echo $item->getData('title'); ?>"><br><br>
+
+    <label for="description">Description :</label><br>
+    <input type="text" id="description" name="description" value="<?php echo $item->getData('description'); ?>"><br><br>
+
+    <label for="event_date">Event Date:</label><br>
+    <input type="text" id="event_date" name="event_date" value="<?php echo $item->getData('event_date'); ?>"><br><br>
+
+    <label for="status">Status:</label><br>
+    <select name="status" id="status">
+<!--        <option value="" selected disabled hidden>--><?php //echo $item->getData('status');?><!-- </option>-->
+        <option value=0>Active</option>
+        <option value=1>Inactive</option>
+    </select>
+    <br><br>
+
+    <label for="background_image">Background Image :</label><br>
+    <input type="text" id="background_image" name="background_image" value="<?php echo $item->getData('background_image'); ?>"><br><br>
+
+    <label for="background_image">Share code :</label><br>
+    </label><input type="text" id="share_code" name="share_code" value="<?php echo $item->getData('share_code'); ?>"><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+
+<p>Testing Edit Page</p>

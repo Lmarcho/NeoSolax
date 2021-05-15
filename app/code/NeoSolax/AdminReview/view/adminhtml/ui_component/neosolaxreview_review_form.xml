@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/Ui/etc/ui_configuration.xsd">
+
+    <argument name="data" xsi:type="array">
+        <item name="js_config" xsi:type="array">
+            <item name="provider" xsi:type="string">neosolaxreview_review_form.neosolaxreview_review_form_data_source
+            </item>
+            <item name="deps" xsi:type="string">neosolaxreview_review_form.neosolaxreview_review_form_data_source</item>
+        </item>
+        <item name="label" xsi:type="string" translate="true">Review Information</item>
+        <item name="layout" xsi:type="array">
+            <item name="type" xsi:type="string">tabs</item>
+        </item>
+        <item name="buttons" xsi:type="array">
+            <item name="save" xsi:type="array">
+                <item name="name" xsi:type="string">save</item>
+                <item name="label" xsi:type="string" translate="true">Save</item>
+                <item name="class" xsi:type="string">primary</item>
+                <item name="style" xsi:type="string">display:block</item>
+                <item name="url" xsi:type="string">neosolaxreview/review/save</item>
+            </item>
+            <item name="back" xsi:type="array">
+                <item name="name" xsi:type="string">back</item>
+                <item name="label" xsi:type="string" translate="true">Back</item>
+                <item name="class" xsi:type="string">action-secondary</item>
+                <item name="style" xsi:type="string">display:block</item>
+                <item name="url" xsi:type="string">neosolaxreview/review/index</item>
+            </item>
+        </item>
+    </argument>
+
+    <dataSource name="neosolaxreview_review_form_data_provider">
+        <argument name="dataProvider" xsi:type="configurableObject">
+            <argument name="class" xsi:type="string">NeoSolax\AdminReview\Ui\ReviewFormDataProvider</argument>
+            <argument name="name" xsi:type="string">neosolaxreview_review_form_data_source</argument>
+            <argument name="primaryFieldName" xsi:type="string">id</argument>
+            <argument name="requestFieldName" xsi:type="string">id</argument>
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="submit_url" xsi:type="url" path="neosolaxreview/review/save"/>
+                    <item name="validate_url" xsi:type="url" path="neosolaxreview/review/validate"/>
+                </item>
+            </argument>
+        </argument>
+        <argument name="data" xsi:type="array">
+            <item name="js_config" xsi:type="array">
+                <item name="component" xsi:type="string">Magento_Ui/js/form/provider</item>
+            </item>
+        </argument>
+    </dataSource>
+
+    <fieldset name="review_fieldset">
+        <argument name="data" xsi:type="array">
+            <item name="config" xsi:type="array">
+                <item name="label" xsi:type="string" translate="true">Review Details</item>
+            </item>
+
+        </argument>
+
+        <!-- This field represents form id and is hidden -->
+        <field name="id">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="visible" xsi:type="boolean">false</item>
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="formElement" xsi:type="string">input</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                </item>
+            </argument>
+        </field>
+
+        <field name="enable">
+            <argument name="data" xsi:type="array">
+                <item name="options" xsi:type="object">NeoSolax\AdminReview\Model\Form\Attributes\EnableOptions</item>
+                <item name="config" xsi:type="array">
+                    <item name="label" xsi:type="string">Enable</item>
+                    <item name="visible" xsi:type="boolean">true</item>
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="formElement" xsi:type="string">select</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+
+                </item>
+            </argument>
+        </field>
+
+        <field name="product_id">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="label" xsi:type="string" translate="true">Product Id</item>
+                    <item name="formElement" xsi:type="string">input</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                    <item name="validation" xsi:type="array">
+                        <item name="required-entry" xsi:type="boolean">true</item>
+                    </item>
+                </item>
+            </argument>
+        </field>
+
+        <field name="type">
+            <argument name="data" xsi:type="array">
+
+                <item name="config" xsi:type="array">
+                    <item name="component" xsi:type="string">NeoSolax_AdminReview/js/form/element/set-option</item>
+                    <item name="elementTmpl" xsi:type="string">NeoSolax_AdminReview/form/element/set-option</item>
+                    <item name="label" xsi:type="string" translate="true">Type</item>
+                    <item name="visible" xsi:type="boolean">true</item>
+                    <item name="dataType" xsi:type="string">number</item>
+                    <item name="formElement" xsi:type="string">select</item>
+                    <item name="source" xsi:type="string">item</item>
+                    <item name="dataScope" xsi:type="string">type</item>
+                    <item name="sortOrder" xsi:type="number">19</item>
+
+                </item>
+
+                <item name="options" xsi:type="array">
+                    <item name="0" xsi:type="array">
+                        <item name="label" xsi:type="string">Select...</item>
+                        <item name="value" xsi:type="string">0</item>
+                    </item>
+                    <item name="1" xsi:type="array">
+                        <item name="label" xsi:type="string">Image</item>
+                        <item name="value" xsi:type="string">1</item>
+                    </item>
+                    <item name="2" xsi:type="array">
+                        <item name="label" xsi:type="string">Video</item>
+                        <item name="value" xsi:type="string">2</item>
+                    </item>
+                </item>
+
+            </argument>
+        </field>
+
+        <fieldset name="image_fieldset">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="label" xsi:type="string" translate="true">Image Upload</item>
+                    <item name="collapsible" xsi:type="boolean">true</item>
+                    <item name="opened" xsi:type="boolean">true</item>
+                </item>
+            </argument>
+
+
+            <field name="small_img_text">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="label" xsi:type="string">Mobile Image Text</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <item name="dataType" xsi:type="string">text</item>
+                        <item name="formElement" xsi:type="string">input</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="dataScope" xsi:type="string">mob_img_text</item>
+
+                    </item>
+                </argument>
+            </field>
+
+            <field name="small_image">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="dataType" xsi:type="string">string</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="label" xsi:type="string" translate="true">Mobile Image</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <!-- - Remove fileUploader -->
+                        <!-- + Add imageUploader -->
+                        <item name="formElement" xsi:type="string">imageUploader</item>
+                        <item name="previewTmpl" xsi:type="string">Magento_Catalog/image-preview</item>
+                        <item name="elementTmpl" xsi:type="string">ui/form/element/uploader/uploader</item>
+                        <item name="dataScope" xsi:type="string">small_image</item>
+                        <item name="required" xsi:type="boolean">true</item>
+                        <item name="uploaderConfig" xsi:type="array">
+                            <item name="url" xsi:type="url" path="neosolaxreview/review/upload"/>
+                        </item>
+                    </item>
+                </argument>
+            </field>
+
+            <field name="medium_img_text">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="label" xsi:type="string">Tab Image Text</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <item name="dataType" xsi:type="string">text</item>
+                        <item name="formElement" xsi:type="string">input</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="dataScope" xsi:type="string">tab_img_text</item>
+
+                    </item>
+                </argument>
+            </field>
+
+            <field name="medium_image">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="dataType" xsi:type="string">string</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="label" xsi:type="string" translate="true">Tab Image</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <!-- - Remove fileUploader -->
+                        <!-- + Add imageUploader -->
+                        <item name="formElement" xsi:type="string">imageUploader</item>
+                        <item name="previewTmpl" xsi:type="string">Magento_Catalog/image-preview</item>
+                        <item name="elementTmpl" xsi:type="string">ui/form/element/uploader/uploader</item>
+                        <item name="dataScope" xsi:type="string">medium_image</item>
+                        <item name="required" xsi:type="boolean">true</item>
+                        <item name="uploaderConfig" xsi:type="array">
+                            <item name="url" xsi:type="url" path="neosolaxreview/review/upload"/>
+                        </item>
+                    </item>
+                </argument>
+            </field>
+
+            <field name="large_img_text">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="label" xsi:type="string">Laptop Image Text</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <item name="dataType" xsi:type="string">text</item>
+                        <item name="formElement" xsi:type="string">input</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="dataScope" xsi:type="string">lap_img_text</item>
+
+                    </item>
+                </argument>
+            </field>
+
+            <field name="large_image">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="dataType" xsi:type="string">string</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="label" xsi:type="string" translate="true">Tab Image</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <!-- - Remove fileUploader -->
+                        <!-- + Add imageUploader -->
+                        <item name="formElement" xsi:type="string">imageUploader</item>
+                        <item name="previewTmpl" xsi:type="string">Magento_Catalog/image-preview</item>
+                        <item name="elementTmpl" xsi:type="string">ui/form/element/uploader/uploader</item>
+                        <item name="dataScope" xsi:type="string">large_image</item>
+                        <item name="required" xsi:type="boolean">true</item>
+                        <item name="uploaderConfig" xsi:type="array">
+                            <item name="url" xsi:type="url" path="neosolaxreview/review/upload"/>
+                        </item>
+                    </item>
+                </argument>
+            </field>
+
+            <field name="xlarge_img_text">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="label" xsi:type="string">Desktop Image Text</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <item name="dataType" xsi:type="string">text</item>
+                        <item name="formElement" xsi:type="string">input</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="dataScope" xsi:type="string">desk_img_text</item>
+
+                    </item>
+                </argument>
+            </field>
+
+            <field name="xlarge_image">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="dataType" xsi:type="string">string</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="label" xsi:type="string" translate="true">Desktop Image</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <!-- - Remove fileUploader -->
+                        <!-- + Add imageUploader -->
+                        <item name="formElement" xsi:type="string">imageUploader</item>
+                        <item name="previewTmpl" xsi:type="string">Magento_Catalog/image-preview</item>
+                        <item name="elementTmpl" xsi:type="string">ui/form/element/uploader/uploader</item>
+                        <item name="dataScope" xsi:type="string">xlarge_image</item>
+                        <item name="required" xsi:type="boolean">true</item>
+                        <item name="uploaderConfig" xsi:type="array">
+                            <item name="url" xsi:type="url" path="neosolaxreview/review/upload"/>
+                        </item>
+                    </item>
+                </argument>
+            </field>
+
+            <field name="sort">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="label" xsi:type="string">Sort</item>
+                        <item name="visible" xsi:type="boolean">true</item>
+                        <item name="dataType" xsi:type="string">text</item>
+                        <item name="formElement" xsi:type="string">input</item>
+                        <item name="source" xsi:type="string">review_fieldset</item>
+                        <item name="dataScope" xsi:type="string">sort</item>
+
+                    </item>
+                </argument>
+            </field>
+
+
+            <button name="add_new_button">
+                <argument name="data" xsi:type="array">
+                    <item name="config" xsi:type="array">
+                        <item name="actions" xsi:type="array">
+                            <!-- Add your button's actions here -->
+                            <item name="0" xsi:type="array">
+                                <!--                            <item name="component" xsi:type="string">NeoSolax_AdminReview/js/form/element/add_button</item>-->
+                                <!--                            <item name="elementTmpl" xsi:type="string">NeoSolax_AdminReview/form/element/add_button</item>-->
+                                <item name="targetName" xsi:type="string">TARGET_NAME</item>
+                                <item name="actionName" xsi:type="string">ACTION_NAME</item>
+                            </item>
+                        </item>
+                    </item>
+                </argument>
+                <settings>
+                    <displayAsLink>false</displayAsLink>
+                    <title><![CDATA[Add New Column]]></title>
+                </settings>
+            </button>
+
+        </fieldset>
+
+
+        <!--        <fieldset name="video_fieldset">-->
+        <!--            <argument name="data" xsi:type="array">-->
+        <!--                <item name="config" xsi:type="array">-->
+        <!--                    <item name="label" xsi:type="string" translate="true">Video Upload</item>-->
+        <!--                    <item name="collapsible" xsi:type="boolean">true</item>-->
+        <!--                    <item name="opened" xsi:type="boolean">true</item>-->
+        <!--                </item>-->
+        <!--            </argument>-->
+        <field name="video_url_upload">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="label" xsi:type="string">Video URL Upload</item>
+                    <item name="visible" xsi:type="boolean">true</item>
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="formElement" xsi:type="string">input</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                    <item name="dataScope" xsi:type="string">video_url_upload</item>
+                    <item name="notice" xsi:type="string" translate="true">To add YouTube video, please enter YouTube
+                        API Key first.
+                    </item>
+                </item>
+            </argument>
+        </field>
+        <field name="video_text">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="label" xsi:type="string">Video Text</item>
+                    <item name="visible" xsi:type="boolean">true</item>
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="formElement" xsi:type="string">input</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                    <item name="dataScope" xsi:type="string">video_text</item>
+                </item>
+            </argument>
+        </field>
+
+        <!--        <field name="video">-->
+        <!--            <argument name="data" xsi:type="array">-->
+        <!--                <item name="config" xsi:type="array">-->
+        <!--                    <item name="dataType" xsi:type="string">string</item>-->
+        <!--                    <item name="source" xsi:type="string">reviewform</item>-->
+        <!--                    <item name="label" xsi:type="string" translate="true">Video Upload</item>-->
+        <!--                    <item name="visible" xsi:type="boolean">true</item>-->
+        <!--                    <item name="formElement" xsi:type="string">fileUploader</item>-->
+        <!--                    <item name="elementTmpl" xsi:type="string">ui/form/element/uploader/uploader</item>-->
+        <!--                    <item name="previewTmpl" xsi:type="string">NeoSolax_AdminReview/image-preview</item>-->
+        <!--                    <item name="maxFileSize" xsi:type="number">524288</item>-->
+        <!--                    <item name="required" xsi:type="boolean">false</item>-->
+        <!--                    <item name="sortOrder" xsi:type="number">40</item>-->
+        <!--                    <item name="uploaderConfig" xsi:type="array">-->
+        <!--                        <item name="url" xsi:type="url" path="neosolaxreview/review/videoupload"/>-->
+        <!--                    </item>-->
+        <!--                </item>-->
+        <!--            </argument>-->
+        <!--        </field>-->
+
+
+        <field name="video_url">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="dataType" xsi:type="string">string</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                    <item name="label" xsi:type="string" translate="true">Video Upload</item>
+                    <item name="visible" xsi:type="boolean">true</item>
+                    <!-- - Remove fileUploader -->
+                    <!-- + Add imageUploader -->
+                    <item name="formElement" xsi:type="string">imageUploader</item>
+                    <item name="previewTmpl" xsi:type="string">Magento_Catalog/image-preview</item>
+                    <item name="elementTmpl" xsi:type="string">ui/form/element/uploader/uploader</item>
+                    <item name="dataScope" xsi:type="string">video_url</item>
+                    <item name="required" xsi:type="boolean">true</item>
+                    <item name="uploaderConfig" xsi:type="array">
+                        <item name="url" xsi:type="url" path="neosolaxreview/review/UploadVideo"/>
+                    </item>
+                </item>
+            </argument>
+        </field>
+        <!--    </fieldset>-->
+
+        <!--        <dynamicRows name="dynamic_rows">-->
+        <!--            <settings>-->
+        <!--                <addButtonLabel translate="true">Add Record</addButtonLabel>-->
+        <!--                <additionalClasses>-->
+        <!--                    <class name="admin__field-wide">true</class>-->
+        <!--                </additionalClasses>-->
+        <!--                <componentType>dynamicRows</componentType>-->
+        <!--            </settings>-->
+        <!--            <container name="record" component="Magento_Ui/js/dynamic-rows/record">-->
+        <!--                <argument name="data" xsi:type="array">-->
+        <!--                    <item name="config" xsi:type="array">-->
+        <!--                        <item name="isTemplate" xsi:type="boolean">true</item>-->
+        <!--                        <item name="is_collection" xsi:type="boolean">true</item>-->
+        <!--                        <item name="componentType" xsi:type="string">container</item>-->
+        <!--                    </item>-->
+        <!--                </argument>-->
+        <!--                <field name="field_1" formElement="input">-->
+        <!--                    <argument name="data" xsi:type="array">-->
+        <!--                        <item name="config" xsi:type="array">-->
+        <!--                            <item name="fit" xsi:type="boolean">false</item>-->
+        <!--                        </item>-->
+        <!--                    </argument>-->
+        <!--                    <settings>-->
+        <!--                        <validation>-->
+        <!--                            <rule name="required-entry" xsi:type="boolean">true</rule>-->
+        <!--                        </validation>-->
+        <!--                        <dataType>text</dataType>-->
+        <!--                        <label>Field #1</label>-->
+        <!--                    </settings>-->
+        <!--                </field>-->
+        <!--                <field name="field_2" formElement="input">-->
+        <!--                    <argument name="data" xsi:type="array">-->
+        <!--                        <item name="config" xsi:type="array">-->
+        <!--                            <item name="fit" xsi:type="boolean">false</item>-->
+        <!--                        </item>-->
+        <!--                    </argument>-->
+        <!--                    <settings>-->
+        <!--                        <validation>-->
+        <!--                            <rule name="required-entry" xsi:type="boolean">true</rule>-->
+        <!--                        </validation>-->
+        <!--                        <dataType>text</dataType>-->
+        <!--                        <label>Field #2</label>-->
+        <!--                    </settings>-->
+        <!--                </field>-->
+        <!--            </container>-->
+        <!--        </dynamicRows>-->
+
+        <field name="title">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="label" xsi:type="string">Review Title</item>
+                    <item name="visible" xsi:type="boolean">true</item>
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="formElement" xsi:type="string">input</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                    <item name="validation" xsi:type="array">
+                        <item name="required-entry" xsi:type="boolean">true</item>
+                    </item>
+                </item>
+            </argument>
+        </field>
+
+        <field name="description">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="dataType" xsi:type="string">text</item>
+                    <item name="formElement" xsi:type="string">wysiwyg</item>
+                    <item name="source" xsi:type="string">review_fieldset</item>
+                    <item name="label" xsi:type="string">Product Description</item>
+
+                    <item name="template" xsi:type="string">ui/form/field</item>
+                    <item name="wysiwyg" xsi:type="boolean">true</item>
+                    <item name="dataScope" xsi:type="string">description</item>
+                    <item name="sortOrder" xsi:type="number">130</item>
+                    <item name="rows" xsi:type="number">8</item>
+                    <item name="validation" xsi:type="array">
+                        <item name="required-entry" xsi:type="boolean">true</item>
+                    </item>
+                </item>
+            </argument>
+        </field>
+
+    </fieldset>
+
+
+</form>
+
+
+    <!--<field name="type_type">
+        <argument name="data" xsi:type="array">
+            <item name="config" xsi:type="array">
+                <item name="dataType" xsi:type="string">select</item>
+                <item name="label" xsi:type="string" translate="true">Type</item>
+                <item name="formElement" xsi:type="string">radioset</item>
+
+                <item name="component" xsi:type="string">Magento_Ui/js/form/element/select</item>
+
+            </item>
+
+            <item name="options" xsi:type="array">
+                <item name="0" xsi:type="array">
+
+                    <item name="value" xsi:type="string">image</item>
+                    <item name="label" xsi:type="string" translate="true">Image</item>
+                </item>
+                <item name="1" xsi:type="array">
+
+                    <item name="value" xsi:type="string">video</item>
+                    <item name="label" xsi:type="string" translate="true">Video</item>
+                </item>
+            </item>
+        </argument>
+        <settings>
+                <switcherConfig>
+                    <rules>
+                        <rule name="0">
+                            <value>image</value>
+                            <actions>
+                                <action name="0">
+                                    <target>neosolaxreview_review_form.neosolaxreview_review_form.review_fieldset.imageshow</target>
+                                    <callback>show</callback>
+                                </action>
+                                <action name="1">
+                                    <target>neosolaxreview_review_form.neosolaxreview_review_form.review_fieldset.videoshow</target>
+                                    <callback>hide</callback>
+                                </action>
+                            </actions>
+                        </rule>
+                        <rule name="1">
+                            <value>video</value>
+                            <actions>
+                                <action name="0">
+                                    <target>neosolaxreview_review_form.neosolaxreview_review_form.review_fieldset.imageshow</target>
+                                    <callback>hide</callback>
+                                </action>
+                                <action name="1">
+                                    <target>neosolaxreview_review_form.neosolaxreview_review_form.review_fieldset.videoshow</target>
+                                    <callback>show</callback>
+                                </action>
+                            </actions>
+                        </rule>
+                    </rules>
+                    <enabled>true</enabled>
+                </switcherConfig>
+
+        </settings>
+    </field>
+
+
+    <field name="imageshow">
+        <argument name="data" xsi:type="array">
+            <item name="config" xsi:type="array">
+                <item name="sortOrder" xsi:type="number">6</item>
+                <item name="dataType" xsi:type="string">text</item>
+                <item name="label" xsi:type="string" translate="true">Image</item>
+                <item name="formElement" xsi:type="string">input</item>
+
+                <item name="dataScope" xsi:type="string">imageshow</item>
+
+
+            </item>
+        </argument>
+    </field>
+    <field name="videoshow">
+        <argument name="data" xsi:type="array">
+            <item name="config" xsi:type="array">
+                <item name="sortOrder" xsi:type="number">6</item>
+                <item name="dataType" xsi:type="string">text</item>
+                <item name="label" xsi:type="string" translate="true">Video</item>
+                <item name="formElement" xsi:type="string">input</item>
+
+                <item name="dataScope" xsi:type="string">videoshow</item>
+
+
+            </item>
+        </argument>
+    </field>-->
+
+

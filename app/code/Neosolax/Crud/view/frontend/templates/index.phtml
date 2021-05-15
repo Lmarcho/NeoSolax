@@ -1,0 +1,77 @@
+<?php
+/** @var Neosolax\Crud\Block\Index $block */
+?>
+<table>
+    <tr>
+        <th>Employee ID</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Date of Birthday</th>
+        <th>Start Date</th>
+        <th>Contact Number</th>
+        <th>Action</th>
+    </tr>
+    <?php
+    $collection = $block->getResult();
+    foreach ($collection as $item) {
+        ?>
+        <tr>
+            <td><?php echo $item->getData('employee_id'); ?></td>
+            <td><?php echo $item->getData('firstName'); ?></td>
+            <td><?php echo $item->getData('lastName'); ?></td>
+            <td><?php echo $item->getData('dob'); ?></td>
+            <td><?php echo $item->getDate('startDate'); ?></td>
+            <td><?php echo $item->getData('contact'); ?></td>
+            <td>
+                <div class="dropdown">
+                    <button onclick="#" class="dropbtn">Action</button>
+                    <div id="myDropdown" class="dropdown-content">
+                        <div id="btn-div" data-bind="scope:'btn'">
+                            <!-- ko template:getTemplate() --> <!-- /ko -->
+                        </div>
+                        <a href="<?php echo $block->getUrl('crud/index/edit') . 'id/' . $item->getData('employee_id'); ?>">Edit</a>
+                        <a href="<?php echo $block->getUrl('crud/index/delete') . 'id/' . $item->getData('employee_id'); ?>">Delete</a>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <?php
+    } ?>
+</table>
+
+<!--<script>-->
+<!--    $.ajax({-->
+<!--        url: "--><?php //echo $block->getItemDetail();?><!--",-->
+<!--        type: "POST",-->
+<!--        crossDomain: true,-->
+<!--        data: '--><?php //echo $item;?><!--',-->
+<!--//    });-->
+<!--//-->
+<!--</script>-->
+<!---->
+<!--<script type="text/x-magento-init">-->
+<!--        {-->
+<!--            "*": {-->
+<!--                "Magento_Ui/js/core/app": {-->
+<!--                    "components": {-->
+<!--                        "edit": {-->
+<!--                            "component": "Neosolax_Crud/js/edit",-->
+<!--                            "template" : "Neosolax_Crud/edit",-->
+<!--                        },-->
+<!--                            "btn": {-->
+<!--                            "component": "Neosolax_Crud/js/btn",-->
+<!--                            "template" : "Neosolax_Crud/btn",-->
+<!--                            "getItemDetail": "--><?php //echo $block->getItemDetail();?><!--"-->
+<!--                        }-->
+<!--                    }-->
+<!--                }-->
+<!--            }-->
+<!--        }-->
+<!--</script>-->
+<!---->
+<!--<div data-bind="scope: 'edit'">-->
+<!--    ko template: getTemplate() --><!-- /ko -->
+<!--</div>-->
+<!---->
+
+

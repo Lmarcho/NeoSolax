@@ -1,0 +1,48 @@
+<?php
+/** @var Neosolax\Giftregistry\Block\Giftregistry\Index $block */
+?>
+<?php if ($block->isLog()) : ?>
+
+    <a href="#"
+       class="fas fa-gift"
+       title="<?= $block->escapeHtmlAttr(__('Add to Gift Registry List')) ?>"
+       aria-label="<?= $block->escapeHtmlAttr(__('Add to Gift Registry List')) ?>"
+       data-mage-init='{"myfile": {"target": "#modal-content"}}'
+       role="button">
+    </a>
+
+    <div id="modal-content">
+        <div class="card">
+            <div class="card-header">My Gift Registry List</div>
+        <?php
+        $collection = $block->getResult();
+        foreach ($collection as $item) {
+            ?>
+            <div class="card-body">
+                    <a href="<?php echo $block->getAddGiftItemUrl($block->getProduct(), $item->getData('giftregistry_id'))?>"><button type="button" onclick="alert('Item Sucessfully Added to <?php echo $item->getData('title'); ?>')"><?php echo $item->getData('title'); ?> </button> </a>
+            </div>
+        <?php
+        } ?>
+        </div>
+
+        <div class="container my-4">
+            <form action="<?php echo $block->getAddNewGiftRegUrl() ?> ">
+                <input type="submit" class="btn btn-primary" value="Create new Registry"/>
+            </form>
+        </div>
+
+    </div>
+
+<?php else : ?>
+    <a href="<?php echo $block->getSignIn() ?>"
+       class="fas fa-gift"
+       title="<?= $block->escapeHtmlAttr(__('Add to Gift Registry List')) ?>"
+       aria-label="<?= $block->escapeHtmlAttr(__('Add to Gift Registry List')) ?>"
+       role="button">
+    </a>
+<?php endif; ?>
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>

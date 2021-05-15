@@ -1,0 +1,9 @@
+type Query {
+    w3w : [W3w] @resolver( class: "NeoSolax\\Custom\\Model\\Resolver\\WhatThreeWordsIndex")
+}
+
+type W3w {
+    apiKey    : String
+    allowedCountries : String
+}
+

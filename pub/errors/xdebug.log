@@ -1,0 +1,2195 @@
+[44005] Log opened at 2020-12-21 09:58:30
+[44005] I: Connecting to configured address/port: localhost:9000.
+[44005] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[44005] E: Could not connect to client. :-(
+[44005] Log closed at 2020-12-21 09:58:30
+
+[47986] Log opened at 2020-12-21 11:02:34
+[47986] I: Connecting to configured address/port: localhost:9000.
+[47986] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47986] E: Could not connect to client. :-(
+[47986] Log closed at 2020-12-21 11:02:34
+
+[53010] Log opened at 2020-12-21 11:34:35
+[53010] I: Connecting to configured address/port: localhost:9000.
+[53010] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[53010] E: Could not connect to client. :-(
+[53010] Log closed at 2020-12-21 11:34:35
+
+[53010] Log opened at 2020-12-21 11:39:23
+[53010] I: Connecting to configured address/port: localhost:9000.
+[53010] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[53010] E: Could not connect to client. :-(
+[53010] Log closed at 2020-12-21 11:39:23
+
+[12439] Log opened at 2020-12-22 07:30:42
+[12439] I: Connecting to configured address/port: localhost:9000.
+[12439] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[12439] E: Could not connect to client. :-(
+[12439] Log closed at 2020-12-22 07:30:42
+
+[15026] Log opened at 2020-12-22 07:48:46
+[15026] I: Connecting to configured address/port: localhost:9000.
+[15026] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[15026] E: Could not connect to client. :-(
+[15026] Log closed at 2020-12-22 07:48:46
+
+[16229] Log opened at 2020-12-22 07:55:43
+[16229] I: Connecting to configured address/port: localhost:9000.
+[16229] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[16229] E: Could not connect to client. :-(
+[16229] Log closed at 2020-12-22 07:55:43
+
+[16496] Log opened at 2020-12-22 09:22:58
+[16496] I: Connecting to configured address/port: localhost:9000.
+[16496] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[16496] E: Could not connect to client. :-(
+[16496] Log closed at 2020-12-22 09:22:58
+
+[40748] Log opened at 2020-12-22 13:14:00
+[40748] I: Connecting to configured address/port: localhost:9000.
+[40748] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[40748] E: Could not connect to client. :-(
+[40748] Log closed at 2020-12-22 13:14:00
+
+[40762] Log opened at 2020-12-22 13:23:38
+[40762] I: Connecting to configured address/port: localhost:9000.
+[40762] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[40762] E: Could not connect to client. :-(
+[40762] Log closed at 2020-12-22 13:23:38
+
+[1551] Log opened at 2020-12-23 02:31:05
+[1551] I: Connecting to configured address/port: localhost:9000.
+[1551] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1551] E: Could not connect to client. :-(
+[1551] Log closed at 2020-12-23 02:31:05
+
+[1552] Log opened at 2020-12-23 02:58:47
+[1552] I: Connecting to configured address/port: localhost:9000.
+[1552] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1552] E: Could not connect to client. :-(
+[1552] Log closed at 2020-12-23 02:58:47
+
+[13283] Log opened at 2020-12-23 03:03:31
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 03:03:31
+
+[13284] Log opened at 2020-12-23 03:07:44
+[13284] I: Connecting to configured address/port: localhost:9000.
+[13284] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13284] E: Could not connect to client. :-(
+[13284] Log closed at 2020-12-23 03:07:44
+
+[13284] Log opened at 2020-12-23 03:08:37
+[13284] I: Connecting to configured address/port: localhost:9000.
+[13284] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13284] E: Could not connect to client. :-(
+[13284] Log closed at 2020-12-23 03:08:37
+
+[11537] Log opened at 2020-12-23 03:12:42
+[11537] I: Connecting to configured address/port: localhost:9000.
+[11537] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[11537] E: Could not connect to client. :-(
+[11537] Log closed at 2020-12-23 03:12:42
+
+[13283] Log opened at 2020-12-23 03:15:09
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 03:15:09
+
+[13283] Log opened at 2020-12-23 03:16:40
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 03:16:40
+
+[13283] Log opened at 2020-12-23 04:06:47
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 04:06:47
+
+[13283] Log opened at 2020-12-23 04:15:53
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 04:15:53
+
+[13283] Log opened at 2020-12-23 04:27:39
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 04:27:39
+
+[13284] Log opened at 2020-12-23 04:29:35
+[13284] I: Connecting to configured address/port: localhost:9000.
+[13284] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13284] E: Could not connect to client. :-(
+[13284] Log closed at 2020-12-23 04:29:35
+
+[11537] Log opened at 2020-12-23 04:30:36
+[11537] I: Connecting to configured address/port: localhost:9000.
+[11537] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[11537] E: Could not connect to client. :-(
+[11537] Log closed at 2020-12-23 04:30:36
+
+[13283] Log opened at 2020-12-23 04:31:49
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 04:31:49
+
+[13283] Log opened at 2020-12-23 04:32:37
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 04:32:37
+
+[13283] Log opened at 2020-12-23 05:21:13
+[13283] I: Connecting to configured address/port: localhost:9000.
+[13283] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13283] E: Could not connect to client. :-(
+[13283] Log closed at 2020-12-23 05:21:13
+
+[27698] Log opened at 2020-12-23 05:54:36
+[27698] I: Connecting to configured address/port: localhost:9000.
+[27698] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[27698] E: Could not connect to client. :-(
+[27698] Log closed at 2020-12-23 05:54:36
+
+[46507] Log opened at 2020-12-23 09:31:48
+[46507] I: Connecting to configured address/port: localhost:9000.
+[46507] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[46507] E: Could not connect to client. :-(
+[46507] Log closed at 2020-12-23 09:31:48
+
+[49482] Log opened at 2020-12-23 10:15:58
+[49482] I: Connecting to configured address/port: localhost:9000.
+[49482] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[49482] E: Could not connect to client. :-(
+[49482] Log closed at 2020-12-23 10:15:58
+
+[50514] Log opened at 2020-12-23 10:42:11
+[50514] I: Connecting to configured address/port: localhost:9000.
+[50514] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[50514] E: Could not connect to client. :-(
+[50514] Log closed at 2020-12-23 10:42:11
+
+[50514] Log opened at 2020-12-23 10:48:14
+[50514] I: Connecting to configured address/port: localhost:9000.
+[50514] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[50514] E: Could not connect to client. :-(
+[50514] Log closed at 2020-12-23 10:48:14
+
+[49643] Log opened at 2020-12-23 10:49:34
+[49643] I: Connecting to configured address/port: localhost:9000.
+[49643] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[49643] E: Could not connect to client. :-(
+[49643] Log closed at 2020-12-23 10:49:34
+
+[50514] Log opened at 2020-12-23 10:50:40
+[50514] I: Connecting to configured address/port: localhost:9000.
+[50514] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[50514] E: Could not connect to client. :-(
+[50514] Log closed at 2020-12-23 10:50:40
+
+[49643] Log opened at 2020-12-23 10:54:56
+[49643] I: Connecting to configured address/port: localhost:9000.
+[49643] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[49643] E: Could not connect to client. :-(
+[49643] Log closed at 2020-12-23 10:54:56
+
+[49643] Log opened at 2020-12-23 10:59:28
+[49643] I: Connecting to configured address/port: localhost:9000.
+[49643] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[49643] E: Could not connect to client. :-(
+[49643] Log closed at 2020-12-23 10:59:28
+
+[49643] Log opened at 2020-12-23 11:07:20
+[49643] I: Connecting to configured address/port: localhost:9000.
+[49643] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[49643] E: Could not connect to client. :-(
+[49643] Log closed at 2020-12-23 11:07:20
+
+[58388] Log opened at 2020-12-23 11:11:37
+[58388] I: Connecting to configured address/port: localhost:9000.
+[58388] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[58388] E: Could not connect to client. :-(
+[58388] Log closed at 2020-12-23 11:11:37
+
+[50514] Log opened at 2020-12-23 11:26:47
+[50514] I: Connecting to configured address/port: localhost:9000.
+[50514] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[50514] E: Could not connect to client. :-(
+[50514] Log closed at 2020-12-23 11:26:47
+
+[50514] Log opened at 2020-12-23 11:29:32
+[50514] I: Connecting to configured address/port: localhost:9000.
+[50514] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[50514] E: Could not connect to client. :-(
+[50514] Log closed at 2020-12-23 11:29:32
+
+[58388] Log opened at 2020-12-23 11:32:27
+[58388] I: Connecting to configured address/port: localhost:9000.
+[58388] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[58388] E: Could not connect to client. :-(
+[58388] Log closed at 2020-12-23 11:32:27
+
+[61602] Log opened at 2020-12-23 12:21:30
+[61602] I: Connecting to configured address/port: localhost:9000.
+[61602] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61602] E: Could not connect to client. :-(
+[61602] Log closed at 2020-12-23 12:21:30
+
+[61602] Log opened at 2020-12-23 12:25:08
+[61602] I: Connecting to configured address/port: localhost:9000.
+[61602] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61602] E: Could not connect to client. :-(
+[61602] Log closed at 2020-12-23 12:25:08
+
+[61602] Log opened at 2020-12-23 12:28:39
+[61602] I: Connecting to configured address/port: localhost:9000.
+[61602] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61602] E: Could not connect to client. :-(
+[61602] Log closed at 2020-12-23 12:28:39
+
+[58388] Log opened at 2020-12-23 12:30:34
+[58388] I: Connecting to configured address/port: localhost:9000.
+[58388] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[58388] E: Could not connect to client. :-(
+[58388] Log closed at 2020-12-23 12:30:34
+
+[61602] Log opened at 2020-12-23 12:30:47
+[61602] I: Connecting to configured address/port: localhost:9000.
+[61602] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61602] E: Could not connect to client. :-(
+[61602] Log closed at 2020-12-23 12:30:47
+
+[61601] Log opened at 2020-12-23 12:33:18
+[61601] I: Connecting to configured address/port: localhost:9000.
+[61601] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61601] E: Could not connect to client. :-(
+[61601] Log closed at 2020-12-23 12:33:18
+
+[61602] Log opened at 2020-12-23 12:34:26
+[61602] I: Connecting to configured address/port: localhost:9000.
+[61602] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61602] E: Could not connect to client. :-(
+[61602] Log closed at 2020-12-23 12:34:26
+
+[61601] Log opened at 2020-12-23 12:36:22
+[61601] I: Connecting to configured address/port: localhost:9000.
+[61601] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61601] E: Could not connect to client. :-(
+[61601] Log closed at 2020-12-23 12:36:22
+
+[61601] Log opened at 2020-12-23 12:39:12
+[61601] I: Connecting to configured address/port: localhost:9000.
+[61601] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61601] E: Could not connect to client. :-(
+[61601] Log closed at 2020-12-23 12:39:12
+
+[61601] Log opened at 2020-12-23 12:45:53
+[61601] I: Connecting to configured address/port: localhost:9000.
+[61601] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61601] E: Could not connect to client. :-(
+[61601] Log closed at 2020-12-23 12:45:53
+
+[70306] Log opened at 2020-12-23 12:58:53
+[70306] I: Connecting to configured address/port: localhost:9000.
+[70306] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[70306] E: Could not connect to client. :-(
+[70306] Log closed at 2020-12-23 12:58:53
+
+[70756] Log opened at 2020-12-23 13:09:48
+[70756] I: Connecting to configured address/port: localhost:9000.
+[70756] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[70756] E: Could not connect to client. :-(
+[70756] Log closed at 2020-12-23 13:09:48
+
+[72646] Log opened at 2020-12-23 13:45:46
+[72646] I: Connecting to configured address/port: localhost:9000.
+[72646] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[72646] E: Could not connect to client. :-(
+[72646] Log closed at 2020-12-23 13:45:46
+
+[24941] Log opened at 2020-12-26 07:36:14
+[24941] I: Connecting to configured address/port: localhost:9000.
+[24941] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24941] E: Could not connect to client. :-(
+[24941] Log closed at 2020-12-26 07:36:14
+
+[24932] Log opened at 2020-12-26 07:39:03
+[24932] I: Connecting to configured address/port: localhost:9000.
+[24932] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24932] E: Could not connect to client. :-(
+[24932] Log closed at 2020-12-26 07:39:03
+
+[24941] Log opened at 2020-12-26 07:43:38
+[24941] I: Connecting to configured address/port: localhost:9000.
+[24941] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24941] E: Could not connect to client. :-(
+[24941] Log closed at 2020-12-26 07:43:38
+
+[27046] Log opened at 2020-12-26 07:49:51
+[27046] I: Connecting to configured address/port: localhost:9000.
+[27046] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[27046] E: Could not connect to client. :-(
+[27046] Log closed at 2020-12-26 07:49:51
+
+[31751] Log opened at 2020-12-26 08:12:39
+[31751] I: Connecting to configured address/port: localhost:9000.
+[31751] I: Connected to client. :-)
+[31751] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="31751" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[31751] <- feature_set -i 1 -n show_hidden -v 1
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[31751] <- feature_set -i 2 -n max_depth -v 1
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[31751] <- feature_set -i 3 -n max_children -v 100
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[31751] <- feature_set -i 4 -n extended_properties -v 1
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[31751] <- feature_set -i 5 -n notify_ok -v 1
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[31751] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[31751] <- stdout -i 7 -c 1
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[31751] <- status -i 8
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[31751] <- step_into -i 9
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[31751] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[31751] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[31751] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[31751] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[31751] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[31751] <- run -i 15
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[31751] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="15" status="stopping" reason="ok"></response>
+
+[31751] <- stop -i 16
+[31751] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="16" status="stopped" reason="ok"></response>
+
+[31751] Log closed at 2020-12-26 08:12:40
+
+[13156] Log opened at 2020-12-28 03:34:16
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:34:16
+
+[13156] Log opened at 2020-12-28 03:40:24
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:40:24
+
+[13314] Log opened at 2020-12-28 03:41:57
+[13314] I: Connecting to configured address/port: localhost:9000.
+[13314] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13314] E: Could not connect to client. :-(
+[13314] Log closed at 2020-12-28 03:41:57
+
+[13156] Log opened at 2020-12-28 03:42:27
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:42:27
+
+[13156] Log opened at 2020-12-28 03:42:49
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:42:49
+
+[13156] Log opened at 2020-12-28 03:43:34
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:43:34
+
+[13156] Log opened at 2020-12-28 03:44:12
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:44:12
+
+[13156] Log opened at 2020-12-28 03:44:47
+[13156] I: Connecting to configured address/port: localhost:9000.
+[13156] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13156] E: Could not connect to client. :-(
+[13156] Log closed at 2020-12-28 03:44:47
+
+[13395] Log opened at 2020-12-28 03:45:15
+[13395] I: Connecting to configured address/port: localhost:9000.
+[13395] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13395] E: Could not connect to client. :-(
+[13395] Log closed at 2020-12-28 03:45:15
+
+[13395] Log opened at 2020-12-28 03:45:35
+[13395] I: Connecting to configured address/port: localhost:9000.
+[13395] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13395] E: Could not connect to client. :-(
+[13395] Log closed at 2020-12-28 03:45:35
+
+[16874] Log opened at 2020-12-28 04:25:39
+[16874] I: Connecting to configured address/port: localhost:9000.
+[16874] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[16874] E: Could not connect to client. :-(
+[16874] Log closed at 2020-12-28 04:25:39
+
+[17173] Log opened at 2020-12-28 04:41:41
+[17173] I: Connecting to configured address/port: localhost:9000.
+[17173] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[17173] E: Could not connect to client. :-(
+[17173] Log closed at 2020-12-28 04:41:41
+
+[18125] Log opened at 2020-12-30 03:12:16
+[18125] I: Connecting to configured address/port: localhost:9000.
+[18125] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[18125] E: Could not connect to client. :-(
+[18125] Log closed at 2020-12-30 03:12:16
+
+[18405] Log opened at 2020-12-30 03:31:42
+[18405] I: Connecting to configured address/port: localhost:9000.
+[18405] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[18405] E: Could not connect to client. :-(
+[18405] Log closed at 2020-12-30 03:31:42
+
+[23353] Log opened at 2020-12-30 03:48:58
+[23353] I: Connecting to configured address/port: localhost:9000.
+[23353] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[23353] E: Could not connect to client. :-(
+[23353] Log closed at 2020-12-30 03:48:58
+
+[23353] Log opened at 2020-12-30 04:07:06
+[23353] I: Connecting to configured address/port: localhost:9000.
+[23353] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[23353] E: Could not connect to client. :-(
+[23353] Log closed at 2020-12-30 04:07:06
+
+[22837] Log opened at 2020-12-30 04:08:44
+[22837] I: Connecting to configured address/port: localhost:9000.
+[22837] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[22837] E: Could not connect to client. :-(
+[22837] Log closed at 2020-12-30 04:08:44
+
+[27899] Log opened at 2020-12-30 04:17:59
+[27899] I: Connecting to configured address/port: localhost:9000.
+[27899] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[27899] E: Could not connect to client. :-(
+[27899] Log closed at 2020-12-30 04:17:59
+
+[28233] Log opened at 2020-12-30 04:27:38
+[28233] I: Connecting to configured address/port: localhost:9000.
+[28233] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[28233] E: Could not connect to client. :-(
+[28233] Log closed at 2020-12-30 04:27:38
+
+[29644] Log opened at 2020-12-30 04:34:47
+[29644] I: Connecting to configured address/port: localhost:9000.
+[29644] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[29644] E: Could not connect to client. :-(
+[29644] Log closed at 2020-12-30 04:34:47
+
+[34132] Log opened at 2020-12-30 04:52:41
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 04:52:41
+
+[33824] Log opened at 2020-12-30 05:29:08
+[33824] I: Connecting to configured address/port: localhost:9000.
+[33824] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[33824] E: Could not connect to client. :-(
+[33824] Log closed at 2020-12-30 05:29:08
+
+[34132] Log opened at 2020-12-30 05:45:15
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 05:45:15
+
+[34132] Log opened at 2020-12-30 05:45:48
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 05:45:48
+
+[34096] Log opened at 2020-12-30 05:46:58
+[34096] I: Connecting to configured address/port: localhost:9000.
+[34096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34096] E: Could not connect to client. :-(
+[34096] Log closed at 2020-12-30 05:46:58
+
+[34096] Log opened at 2020-12-30 05:48:30
+[34096] I: Connecting to configured address/port: localhost:9000.
+[34096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34096] E: Could not connect to client. :-(
+[34096] Log closed at 2020-12-30 05:48:30
+
+[34132] Log opened at 2020-12-30 05:54:54
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 05:54:54
+
+[34132] Log opened at 2020-12-30 05:56:00
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 05:56:00
+
+[34096] Log opened at 2020-12-30 05:58:13
+[34096] I: Connecting to configured address/port: localhost:9000.
+[34096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34096] E: Could not connect to client. :-(
+[34096] Log closed at 2020-12-30 05:58:13
+
+[34132] Log opened at 2020-12-30 05:59:03
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 05:59:03
+
+[33824] Log opened at 2020-12-30 06:01:28
+[33824] I: Connecting to configured address/port: localhost:9000.
+[33824] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[33824] E: Could not connect to client. :-(
+[33824] Log closed at 2020-12-30 06:01:28
+
+[33824] Log opened at 2020-12-30 06:04:35
+[33824] I: Connecting to configured address/port: localhost:9000.
+[33824] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[33824] E: Could not connect to client. :-(
+[33824] Log closed at 2020-12-30 06:04:35
+
+[33824] Log opened at 2020-12-30 06:05:42
+[33824] I: Connecting to configured address/port: localhost:9000.
+[33824] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[33824] E: Could not connect to client. :-(
+[33824] Log closed at 2020-12-30 06:05:42
+
+[33824] Log opened at 2020-12-30 06:13:29
+[33824] I: Connecting to configured address/port: localhost:9000.
+[33824] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[33824] E: Could not connect to client. :-(
+[33824] Log closed at 2020-12-30 06:13:29
+
+[34132] Log opened at 2020-12-30 06:15:50
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 06:15:50
+
+[34132] Log opened at 2020-12-30 06:17:30
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 06:17:30
+
+[34096] Log opened at 2020-12-30 06:31:04
+[34096] I: Connecting to configured address/port: localhost:9000.
+[34096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34096] E: Could not connect to client. :-(
+[34096] Log closed at 2020-12-30 06:31:04
+
+[34096] Log opened at 2020-12-30 06:39:45
+[34096] I: Connecting to configured address/port: localhost:9000.
+[34096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34096] E: Could not connect to client. :-(
+[34096] Log closed at 2020-12-30 06:39:45
+
+[47144] Log opened at 2020-12-30 06:41:38
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 06:41:38
+
+[34132] Log opened at 2020-12-30 06:42:26
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 06:42:26
+
+[34096] Log opened at 2020-12-30 06:43:38
+[34096] I: Connecting to configured address/port: localhost:9000.
+[34096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34096] E: Could not connect to client. :-(
+[34096] Log closed at 2020-12-30 06:43:38
+
+[47144] Log opened at 2020-12-30 06:44:08
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 06:44:08
+
+[47144] Log opened at 2020-12-30 07:05:21
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 07:05:21
+
+[51774] Log opened at 2020-12-30 07:10:53
+[51774] I: Connecting to configured address/port: localhost:9000.
+[51774] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[51774] E: Could not connect to client. :-(
+[51774] Log closed at 2020-12-30 07:10:53
+
+[51774] Log opened at 2020-12-30 07:11:15
+[51774] I: Connecting to configured address/port: localhost:9000.
+[51774] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[51774] E: Could not connect to client. :-(
+[51774] Log closed at 2020-12-30 07:11:15
+
+[47144] Log opened at 2020-12-30 07:12:02
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 07:12:02
+
+[47144] Log opened at 2020-12-30 07:15:57
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 07:15:57
+
+[34132] Log opened at 2020-12-30 07:16:30
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 07:16:30
+
+[47144] Log opened at 2020-12-30 07:16:59
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 07:16:59
+
+[47144] Log opened at 2020-12-30 07:17:47
+[47144] I: Connecting to configured address/port: localhost:9000.
+[47144] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47144] E: Could not connect to client. :-(
+[47144] Log closed at 2020-12-30 07:17:47
+
+[51774] Log opened at 2020-12-30 07:19:03
+[51774] I: Connecting to configured address/port: localhost:9000.
+[51774] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[51774] E: Could not connect to client. :-(
+[51774] Log closed at 2020-12-30 07:19:03
+
+[34132] Log opened at 2020-12-30 07:24:56
+[34132] I: Connecting to configured address/port: localhost:9000.
+[34132] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[34132] E: Could not connect to client. :-(
+[34132] Log closed at 2020-12-30 07:24:56
+
+[16106] Log opened at 2020-12-31 04:56:43
+[16106] I: Connecting to configured address/port: localhost:9000.
+[16106] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[16106] E: Could not connect to client. :-(
+[16106] Log closed at 2020-12-31 04:56:43
+
+[16020] Log opened at 2020-12-31 05:32:39
+[16020] I: Connecting to configured address/port: localhost:9000.
+[16020] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[16020] E: Could not connect to client. :-(
+[16020] Log closed at 2020-12-31 05:32:39
+
+[16106] Log opened at 2020-12-31 05:50:44
+[16106] I: Connecting to configured address/port: localhost:9000.
+[16106] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[16106] E: Could not connect to client. :-(
+[16106] Log closed at 2020-12-31 05:50:44
+
+[36270] Log opened at 2020-12-31 06:32:07
+[36270] I: Connecting to configured address/port: localhost:9000.
+[36270] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[36270] E: Could not connect to client. :-(
+[36270] Log closed at 2020-12-31 06:32:07
+
+[36319] Log opened at 2020-12-31 06:40:45
+[36319] I: Connecting to configured address/port: localhost:9000.
+[36319] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[36319] E: Could not connect to client. :-(
+[36319] Log closed at 2020-12-31 06:40:45
+
+[37226] Log opened at 2020-12-31 06:57:08
+[37226] I: Connecting to configured address/port: localhost:9000.
+[37226] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[37226] E: Could not connect to client. :-(
+[37226] Log closed at 2020-12-31 06:57:08
+
+[37172] Log opened at 2020-12-31 06:58:58
+[37172] I: Connecting to configured address/port: localhost:9000.
+[37172] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[37172] E: Could not connect to client. :-(
+[37172] Log closed at 2020-12-31 06:58:58
+
+[37172] Log opened at 2020-12-31 07:13:57
+[37172] I: Connecting to configured address/port: localhost:9000.
+[37172] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[37172] E: Could not connect to client. :-(
+[37172] Log closed at 2020-12-31 07:13:57
+
+[41492] Log opened at 2020-12-31 07:18:57
+[41492] I: Connecting to configured address/port: localhost:9000.
+[41492] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[41492] E: Could not connect to client. :-(
+[41492] Log closed at 2020-12-31 07:18:57
+
+[42208] Log opened at 2020-12-31 07:21:03
+[42208] I: Connecting to configured address/port: localhost:9000.
+[42208] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[42208] E: Could not connect to client. :-(
+[42208] Log closed at 2020-12-31 07:21:03
+
+[42219] Log opened at 2020-12-31 07:22:17
+[42219] I: Connecting to configured address/port: localhost:9000.
+[42219] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[42219] E: Could not connect to client. :-(
+[42219] Log closed at 2020-12-31 07:22:17
+
+[44221] Log opened at 2020-12-31 07:55:06
+[44221] I: Connecting to configured address/port: localhost:9000.
+[44221] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[44221] E: Could not connect to client. :-(
+[44221] Log closed at 2020-12-31 07:55:06
+
+[44221] Log opened at 2020-12-31 07:58:10
+[44221] I: Connecting to configured address/port: localhost:9000.
+[44221] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[44221] E: Could not connect to client. :-(
+[44221] Log closed at 2020-12-31 07:58:10
+
+[44659] Log opened at 2020-12-31 08:06:30
+[44659] I: Connecting to configured address/port: localhost:9000.
+[44659] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[44659] E: Could not connect to client. :-(
+[44659] Log closed at 2020-12-31 08:06:30
+
+[45330] Log opened at 2020-12-31 08:10:57
+[45330] I: Connecting to configured address/port: localhost:9000.
+[45330] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[45330] E: Could not connect to client. :-(
+[45330] Log closed at 2020-12-31 08:10:57
+
+[57185] Log opened at 2020-12-31 10:29:25
+[57185] I: Connecting to configured address/port: localhost:9000.
+[57185] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[57185] E: Could not connect to client. :-(
+[57185] Log closed at 2020-12-31 10:29:25
+
+[58997] Log opened at 2020-12-31 10:41:42
+[58997] I: Connecting to configured address/port: localhost:9000.
+[58997] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[58997] E: Could not connect to client. :-(
+[58997] Log closed at 2020-12-31 10:41:42
+
+[58997] Log opened at 2020-12-31 10:45:29
+[58997] I: Connecting to configured address/port: localhost:9000.
+[58997] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[58997] E: Could not connect to client. :-(
+[58997] Log closed at 2020-12-31 10:45:29
+
+[58997] Log opened at 2020-12-31 11:07:12
+[58997] I: Connecting to configured address/port: localhost:9000.
+[58997] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[58997] E: Could not connect to client. :-(
+[58997] Log closed at 2020-12-31 11:07:12
+
+[61123] Log opened at 2020-12-31 11:11:23
+[61123] I: Connecting to configured address/port: localhost:9000.
+[61123] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61123] E: Could not connect to client. :-(
+[61123] Log closed at 2020-12-31 11:11:23
+
+[61696] Log opened at 2020-12-31 11:14:13
+[61696] I: Connecting to configured address/port: localhost:9000.
+[61696] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[61696] E: Could not connect to client. :-(
+[61696] Log closed at 2020-12-31 11:14:13
+
+[62050] Log opened at 2020-12-31 11:18:01
+[62050] I: Connecting to configured address/port: localhost:9000.
+[62050] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[62050] E: Could not connect to client. :-(
+[62050] Log closed at 2020-12-31 11:18:01
+
+[62428] Log opened at 2020-12-31 11:32:04
+[62428] I: Connecting to configured address/port: localhost:9000.
+[62428] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[62428] E: Could not connect to client. :-(
+[62428] Log closed at 2020-12-31 11:32:04
+
+[63756] Log opened at 2020-12-31 11:35:24
+[63756] I: Connecting to configured address/port: localhost:9000.
+[63756] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[63756] E: Could not connect to client. :-(
+[63756] Log closed at 2020-12-31 11:35:24
+
+[64147] Log opened at 2020-12-31 11:36:37
+[64147] I: Connecting to configured address/port: localhost:9000.
+[64147] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[64147] E: Could not connect to client. :-(
+[64147] Log closed at 2020-12-31 11:36:37
+
+[64268] Log opened at 2020-12-31 11:37:56
+[64268] I: Connecting to configured address/port: localhost:9000.
+[64268] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[64268] E: Could not connect to client. :-(
+[64268] Log closed at 2020-12-31 11:37:56
+
+[64268] Log opened at 2020-12-31 11:39:24
+[64268] I: Connecting to configured address/port: localhost:9000.
+[64268] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[64268] E: Could not connect to client. :-(
+[64268] Log closed at 2020-12-31 11:39:24
+
+[64939] Log opened at 2020-12-31 12:24:17
+[64939] I: Connecting to configured address/port: localhost:9000.
+[64939] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[64939] E: Could not connect to client. :-(
+[64939] Log closed at 2020-12-31 12:24:17
+
+[64940] Log opened at 2020-12-31 12:32:13
+[64940] I: Connecting to configured address/port: localhost:9000.
+[64940] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[64940] E: Could not connect to client. :-(
+[64940] Log closed at 2020-12-31 12:32:13
+
+[70564] Log opened at 2020-12-31 12:33:30
+[70564] I: Connecting to configured address/port: localhost:9000.
+[70564] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[70564] E: Could not connect to client. :-(
+[70564] Log closed at 2020-12-31 12:33:30
+
+[73375] Log opened at 2020-12-31 13:10:02
+[73375] I: Connecting to configured address/port: localhost:9000.
+[73375] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[73375] E: Could not connect to client. :-(
+[73375] Log closed at 2020-12-31 13:10:02
+
+[74631] Log opened at 2020-12-31 13:35:05
+[74631] I: Connecting to configured address/port: localhost:9000.
+[74631] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[74631] E: Could not connect to client. :-(
+[74631] Log closed at 2020-12-31 13:35:05
+
+[74828] Log opened at 2020-12-31 13:36:41
+[74828] I: Connecting to configured address/port: localhost:9000.
+[74828] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[74828] E: Could not connect to client. :-(
+[74828] Log closed at 2020-12-31 13:36:41
+
+[1556] Log opened at 2021-01-01 02:16:21
+[1556] I: Connecting to configured address/port: localhost:9000.
+[1556] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1556] E: Could not connect to client. :-(
+[1556] Log closed at 2021-01-01 02:16:21
+
+[13863] Log opened at 2021-01-01 02:31:34
+[13863] I: Connecting to configured address/port: localhost:9000.
+[13863] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[13863] E: Could not connect to client. :-(
+[13863] Log closed at 2021-01-01 02:31:34
+
+[20792] Log opened at 2021-01-01 04:14:07
+[20792] I: Connecting to configured address/port: localhost:9000.
+[20792] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[20792] E: Could not connect to client. :-(
+[20792] Log closed at 2021-01-01 04:14:07
+
+[20794] Log opened at 2021-01-01 04:19:36
+[20794] I: Connecting to configured address/port: localhost:9000.
+[20794] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[20794] E: Could not connect to client. :-(
+[20794] Log closed at 2021-01-01 04:19:36
+
+[21357] Log opened at 2021-01-01 04:23:43
+[21357] I: Connecting to configured address/port: localhost:9000.
+[21357] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[21357] E: Could not connect to client. :-(
+[21357] Log closed at 2021-01-01 04:23:43
+
+[21357] Log opened at 2021-01-01 04:27:43
+[21357] I: Connecting to configured address/port: localhost:9000.
+[21357] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[21357] E: Could not connect to client. :-(
+[21357] Log closed at 2021-01-01 04:27:43
+
+[21487] Log opened at 2021-01-01 05:15:10
+[21487] I: Connecting to configured address/port: localhost:9000.
+[21487] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[21487] E: Could not connect to client. :-(
+[21487] Log closed at 2021-01-01 05:15:10
+
+[24289] Log opened at 2021-01-01 05:21:43
+[24289] I: Connecting to configured address/port: localhost:9000.
+[24289] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24289] E: Could not connect to client. :-(
+[24289] Log closed at 2021-01-01 05:21:43
+
+[21696] Log opened at 2021-01-01 05:23:00
+[21696] I: Connecting to configured address/port: localhost:9000.
+[21696] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[21696] E: Could not connect to client. :-(
+[21696] Log closed at 2021-01-01 05:23:00
+
+[24289] Log opened at 2021-01-01 05:24:09
+[24289] I: Connecting to configured address/port: localhost:9000.
+[24289] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24289] E: Could not connect to client. :-(
+[24289] Log closed at 2021-01-01 05:24:09
+
+[24289] Log opened at 2021-01-01 05:24:29
+[24289] I: Connecting to configured address/port: localhost:9000.
+[24289] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24289] E: Could not connect to client. :-(
+[24289] Log closed at 2021-01-01 05:24:29
+
+[24289] Log opened at 2021-01-01 05:25:59
+[24289] I: Connecting to configured address/port: localhost:9000.
+[24289] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24289] E: Could not connect to client. :-(
+[24289] Log closed at 2021-01-01 05:25:59
+
+[24289] Log opened at 2021-01-01 05:27:23
+[24289] I: Connecting to configured address/port: localhost:9000.
+[24289] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24289] E: Could not connect to client. :-(
+[24289] Log closed at 2021-01-01 05:27:23
+
+[25389] Log opened at 2021-01-01 05:31:35
+[25389] I: Connecting to configured address/port: localhost:9000.
+[25389] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[25389] E: Could not connect to client. :-(
+[25389] Log closed at 2021-01-01 05:31:35
+
+[25349] Log opened at 2021-01-01 05:32:14
+[25349] I: Connecting to configured address/port: localhost:9000.
+[25349] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[25349] E: Could not connect to client. :-(
+[25349] Log closed at 2021-01-01 05:32:14
+
+[25348] Log opened at 2021-01-01 05:33:32
+[25348] I: Connecting to configured address/port: localhost:9000.
+[25348] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[25348] E: Could not connect to client. :-(
+[25348] Log closed at 2021-01-01 05:33:32
+
+[25389] Log opened at 2021-01-01 05:35:51
+[25389] I: Connecting to configured address/port: localhost:9000.
+[25389] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[25389] E: Could not connect to client. :-(
+[25389] Log closed at 2021-01-01 05:35:51
+
+[26329] Log opened at 2021-01-01 05:38:10
+[26329] I: Connecting to configured address/port: localhost:9000.
+[26329] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[26329] E: Could not connect to client. :-(
+[26329] Log closed at 2021-01-01 05:38:10
+
+[26285] Log opened at 2021-01-01 05:39:10
+[26285] I: Connecting to configured address/port: localhost:9000.
+[26285] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[26285] E: Could not connect to client. :-(
+[26285] Log closed at 2021-01-01 05:39:10
+
+[26285] Log opened at 2021-01-01 06:03:59
+[26285] I: Connecting to configured address/port: localhost:9000.
+[26285] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[26285] E: Could not connect to client. :-(
+[26285] Log closed at 2021-01-01 06:03:59
+
+[26329] Log opened at 2021-01-01 06:07:43
+[26329] I: Connecting to configured address/port: localhost:9000.
+[26329] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[26329] E: Could not connect to client. :-(
+[26329] Log closed at 2021-01-01 06:07:43
+
+[26284] Log opened at 2021-01-01 06:25:04
+[26284] I: Connecting to configured address/port: localhost:9000.
+[26284] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[26284] E: Could not connect to client. :-(
+[26284] Log closed at 2021-01-01 06:25:04
+
+[31237] Log opened at 2021-01-01 06:44:31
+[31237] I: Connecting to configured address/port: localhost:9000.
+[31237] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[31237] E: Could not connect to client. :-(
+[31237] Log closed at 2021-01-01 06:44:31
+
+[44920] Log opened at 2021-01-01 09:06:35
+[44920] I: Connecting to configured address/port: localhost:9000.
+[44920] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[44920] E: Could not connect to client. :-(
+[44920] Log closed at 2021-01-01 09:06:35
+
+[45096] Log opened at 2021-01-01 09:07:53
+[45096] I: Connecting to configured address/port: localhost:9000.
+[45096] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[45096] E: Could not connect to client. :-(
+[45096] Log closed at 2021-01-01 09:07:53
+
+[1506] Log opened at 2021-01-01 10:54:14
+[1506] I: Connecting to configured address/port: localhost:9000.
+[1506] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1506] E: Could not connect to client. :-(
+[1506] Log closed at 2021-01-01 10:54:14
+
+[5241] Log opened at 2021-01-01 11:09:35
+[5241] I: Connecting to configured address/port: localhost:9000.
+[5241] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[5241] E: Could not connect to client. :-(
+[5241] Log closed at 2021-01-01 11:09:35
+
+[12849] Log opened at 2021-01-01 12:27:19
+[12849] I: Connecting to configured address/port: localhost:9000.
+[12849] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[12849] E: Could not connect to client. :-(
+[12849] Log closed at 2021-01-01 12:27:19
+
+[1582] Log opened at 2021-01-04 02:42:15
+[1582] I: Connecting to configured address/port: localhost:9000.
+[1582] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1582] E: Could not connect to client. :-(
+[1582] Log closed at 2021-01-04 02:42:15
+
+[47512] Log opened at 2021-01-10 11:30:01
+[47512] I: Connecting to configured address/port: localhost:9000.
+[47512] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[47512] E: Could not connect to client. :-(
+[47512] Log closed at 2021-01-10 11:30:01
+
+[1610] Log opened at 2021-01-11 02:03:33
+[1610] I: Connecting to configured address/port: localhost:9000.
+[1610] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1610] E: Could not connect to client. :-(
+[1610] Log closed at 2021-01-11 02:03:33
+
+[24919] Log opened at 2021-01-11 06:08:33
+[24919] I: Connecting to configured address/port: localhost:9000.
+[24919] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[24919] E: Could not connect to client. :-(
+[24919] Log closed at 2021-01-11 06:08:33
+
+[17520] Log opened at 2021-01-12 07:03:20
+[17520] I: Connecting to configured address/port: localhost:9000.
+[17520] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[17520] E: Could not connect to client. :-(
+[17520] Log closed at 2021-01-12 07:03:20
+
+[25128] Log opened at 2021-01-13 09:30:50
+[25128] I: Connecting to configured address/port: localhost:9000.
+[25128] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[25128] E: Could not connect to client. :-(
+[25128] Log closed at 2021-01-13 09:30:50
+
+[60112] Log opened at 2021-01-13 13:33:02
+[60112] I: Connecting to configured address/port: localhost:9000.
+[60112] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[60112] E: Could not connect to client. :-(
+[60112] Log closed at 2021-01-13 13:33:02
+
+[6076] Log opened at 2021-01-15 02:59:05
+[6076] I: Connecting to configured address/port: localhost:9000.
+[6076] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6076] E: Could not connect to client. :-(
+[6076] Log closed at 2021-01-15 02:59:05
+
+[7237] Log opened at 2021-01-15 03:14:50
+[7237] I: Connecting to configured address/port: localhost:9000.
+[7237] I: Connected to client. :-)
+[7237] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="7237" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[7237] <- feature_set -i 1 -n show_hidden -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[7237] <- feature_set -i 2 -n max_depth -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[7237] <- feature_set -i 3 -n max_children -v 100
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[7237] <- feature_set -i 4 -n extended_properties -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[7237] <- feature_set -i 5 -n notify_ok -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[7237] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[7237] <- stdout -i 7 -c 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[7237] <- status -i 8
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[7237] <- step_into -i 9
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[7237] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[7237] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[7237] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[7237] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[7237] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[7237] <- breakpoint_set -i 15 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 67
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="72370061" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 16 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 72
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="72370062" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 17 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 63
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="72370063" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 18 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 70
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="18" id="72370064" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 19 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 69
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="72370065" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 20 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 65
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="20" id="72370066" resolved="unresolved"></response>
+
+[7237] <- stack_get -i 21
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="21"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[7237] <- run -i 22
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="22" status="stopping" reason="ok"></response>
+
+[7237] <- run -i 23
+[7237] Log closed at 2021-01-15 03:14:51
+
+[6502] Log opened at 2021-01-15 03:22:19
+[6502] I: Connecting to configured address/port: localhost:9000.
+[6502] I: Connected to client. :-)
+[6502] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="6502" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[6502] <- feature_set -i 1 -n show_hidden -v 1
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[6502] <- feature_set -i 2 -n max_depth -v 1
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[6502] <- feature_set -i 3 -n max_children -v 100
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[6502] <- feature_set -i 4 -n extended_properties -v 1
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[6502] <- feature_set -i 5 -n notify_ok -v 1
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[6502] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[6502] <- stdout -i 7 -c 1
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[6502] <- status -i 8
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[6502] <- step_into -i 9
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[6502] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[6502] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[6502] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[6502] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[6502] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[6502] <- breakpoint_set -i 15 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 67
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="65020169" resolved="unresolved"></response>
+
+[6502] <- breakpoint_set -i 16 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 72
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="65020170" resolved="unresolved"></response>
+
+[6502] <- breakpoint_set -i 17 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 63
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="65020171" resolved="unresolved"></response>
+
+[6502] <- breakpoint_set -i 18 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 70
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="18" id="65020172" resolved="unresolved"></response>
+
+[6502] <- breakpoint_set -i 19 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 69
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="65020173" resolved="unresolved"></response>
+
+[6502] <- breakpoint_set -i 20 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 65
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="20" id="65020174" resolved="unresolved"></response>
+
+[6502] <- stack_get -i 21
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="21"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[6502] <- run -i 22
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[6502] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[6502] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="22" status="stopping" reason="ok"></response>
+
+[6502] <- run -i 23
+[6502] Log closed at 2021-01-15 03:22:19
+
+[7237] Log opened at 2021-01-15 03:38:40
+[7237] I: Connecting to configured address/port: localhost:9000.
+[7237] I: Connected to client. :-)
+[7237] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="7237" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[7237] <- feature_set -i 1 -n show_hidden -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[7237] <- feature_set -i 2 -n max_depth -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[7237] <- feature_set -i 3 -n max_children -v 100
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[7237] <- feature_set -i 4 -n extended_properties -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[7237] <- feature_set -i 5 -n notify_ok -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[7237] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[7237] <- stdout -i 7 -c 1
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[7237] <- status -i 8
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[7237] <- step_into -i 9
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[7237] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[7237] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[7237] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[7237] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[7237] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[7237] <- breakpoint_set -i 15 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 67
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="72370181" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 16 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 72
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="72370182" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 17 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 63
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="72370183" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 18 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 70
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="18" id="72370184" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 19 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 69
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="72370185" resolved="unresolved"></response>
+
+[7237] <- breakpoint_set -i 20 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 65
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="20" id="72370186" resolved="unresolved"></response>
+
+[7237] <- stack_get -i 21
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="21"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[7237] <- run -i 22
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[7237] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[7237] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="22" status="stopping" reason="ok"></response>
+
+[7237] <- run -i 23
+[7237] Log closed at 2021-01-15 03:38:40
+
+[11000] Log opened at 2021-01-15 03:40:31
+[11000] I: Connecting to configured address/port: localhost:9000.
+[11000] I: Connected to client. :-)
+[11000] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="11000" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[11000] <- feature_set -i 1 -n show_hidden -v 1
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[11000] <- feature_set -i 2 -n max_depth -v 1
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[11000] <- feature_set -i 3 -n max_children -v 100
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[11000] <- feature_set -i 4 -n extended_properties -v 1
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[11000] <- feature_set -i 5 -n notify_ok -v 1
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[11000] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[11000] <- stdout -i 7 -c 1
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[11000] <- status -i 8
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[11000] <- step_into -i 9
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[11000] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[11000] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[11000] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[11000] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[11000] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[11000] <- breakpoint_set -i 15 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 67
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="110000091" resolved="unresolved"></response>
+
+[11000] <- breakpoint_set -i 16 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 72
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="110000092" resolved="unresolved"></response>
+
+[11000] <- breakpoint_set -i 17 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 63
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="110000093" resolved="unresolved"></response>
+
+[11000] <- breakpoint_set -i 18 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 70
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="18" id="110000094" resolved="unresolved"></response>
+
+[11000] <- breakpoint_set -i 19 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 69
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="110000095" resolved="unresolved"></response>
+
+[11000] <- breakpoint_set -i 20 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 65
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="20" id="110000096" resolved="unresolved"></response>
+
+[11000] <- stack_get -i 21
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="21"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[11000] <- run -i 22
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[11000] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[11000] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="22" status="stopping" reason="ok"></response>
+
+[11000] <- run -i 23
+[11000] Log closed at 2021-01-15 03:40:31
+
+[11003] Log opened at 2021-01-15 04:33:22
+[11003] I: Connecting to configured address/port: localhost:9000.
+[11003] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[11003] E: Could not connect to client. :-(
+[11003] Log closed at 2021-01-15 04:33:22
+
+[6481] Log opened at 2021-01-15 05:11:33
+[6481] I: Connecting to configured address/port: localhost:9000.
+[6481] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6481] E: Could not connect to client. :-(
+[6481] Log closed at 2021-01-15 05:11:33
+
+[6593] Log opened at 2021-01-15 05:26:34
+[6593] I: Connecting to configured address/port: localhost:9000.
+[6593] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6593] E: Could not connect to client. :-(
+[6593] Log closed at 2021-01-15 05:26:34
+
+[14566] Log opened at 2021-01-15 06:27:48
+[14566] I: Connecting to configured address/port: localhost:9000.
+[14566] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[14566] E: Could not connect to client. :-(
+[14566] Log closed at 2021-01-15 06:27:48
+
+[19330] Log opened at 2021-01-15 07:03:38
+[19330] I: Connecting to configured address/port: localhost:9000.
+[19330] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[19330] E: Could not connect to client. :-(
+[19330] Log closed at 2021-01-15 07:03:38
+
+[26511] Log opened at 2021-01-15 08:26:03
+[26511] I: Connecting to configured address/port: localhost:9000.
+[26511] I: Connected to client. :-)
+[26511] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="26511" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[26511] <- feature_set -i 1 -n show_hidden -v 1
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[26511] <- feature_set -i 2 -n max_depth -v 1
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[26511] <- feature_set -i 3 -n max_children -v 100
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[26511] <- feature_set -i 4 -n extended_properties -v 1
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[26511] <- feature_set -i 5 -n notify_ok -v 1
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[26511] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[26511] <- stdout -i 7 -c 1
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[26511] <- status -i 8
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[26511] <- step_into -i 9
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[26511] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[26511] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[26511] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[26511] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[26511] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[26511] <- breakpoint_set -i 15 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 67
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="265110267" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 16 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 100
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="265110268" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 17 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 104
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="265110269" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 18 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 101
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="18" id="265110270" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 19 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 75
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="265110271" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 20 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 89
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="20" id="265110272" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 21 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 91
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="21" id="265110273" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 22 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 69
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="22" id="265110274" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 23 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 86
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="23" id="265110275" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 24 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 103
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="24" id="265110276" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 25 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 78
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="25" id="265110277" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 26 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 85
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="26" id="265110278" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 27 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 77
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="27" id="265110279" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 28 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 99
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="28" id="265110280" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 29 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 68
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="29" id="265110281" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 30 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 87
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="30" id="265110282" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 31 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 90
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="31" id="265110283" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 32 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 98
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="32" id="265110284" resolved="unresolved"></response>
+
+[26511] <- breakpoint_set -i 33 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 76
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="33" id="265110285" resolved="unresolved"></response>
+
+[26511] <- stack_get -i 34
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="34"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[26511] <- run -i 35
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[26511] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[26511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="35" status="stopping" reason="ok"></response>
+
+[26511] <- run -i 36
+[26511] Log closed at 2021-01-15 08:26:06
+
+[33739] Log opened at 2021-01-15 09:38:48
+[33739] I: Connecting to configured address/port: localhost:9000.
+[33739] I: Connected to client. :-)
+[33739] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="33739" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[33739] <- feature_set -i 1 -n show_hidden -v 1
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[33739] <- feature_set -i 2 -n max_depth -v 1
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[33739] <- feature_set -i 3 -n max_children -v 100
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[33739] <- feature_set -i 4 -n extended_properties -v 1
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[33739] <- feature_set -i 5 -n notify_ok -v 1
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[33739] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[33739] <- stdout -i 7 -c 1
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[33739] <- status -i 8
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[33739] <- step_into -i 9
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[33739] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[33739] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[33739] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[33739] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[33739] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[33739] <- breakpoint_set -i 15 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 74
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="15" id="337390096" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 16 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 97
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="337390097" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 17 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 92
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="337390098" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 18 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 76
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="18" id="337390099" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 19 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 108
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="337390100" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 20 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 99
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="20" id="337390101" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 21 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 112
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="21" id="337390102" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 22 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 83
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="22" id="337390103" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 23 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 84
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="23" id="337390104" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 24 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 93
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="24" id="337390105" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 25 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 98
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="25" id="337390106" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 26 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 75
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="26" id="337390107" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 27 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 106
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="27" id="337390108" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 28 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 109
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="28" id="337390109" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 29 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 107
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="29" id="337390110" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 30 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 111
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="30" id="337390111" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 31 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 85
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="31" id="337390112" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 32 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 82
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="32" id="337390113" resolved="unresolved"></response>
+
+[33739] <- breakpoint_set -i 33 -t line -f file:///var/www/html/magento/app/code/NeoSolax/Pagenotfound/Model/Resolver/Save.php -n 94
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="33" id="337390114" resolved="unresolved"></response>
+
+[33739] <- stack_get -i 34
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="34"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[33739] <- run -i 35
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[33739] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[33739] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="35" status="stopping" reason="ok"></response>
+
+[33739] <- run -i 36
+[33739] Log closed at 2021-01-15 09:38:48
+
+[43737] Log opened at 2021-01-15 11:34:59
+[43737] I: Connecting to configured address/port: localhost:9000.
+[43737] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[43737] E: Could not connect to client. :-(
+[43737] Log closed at 2021-01-15 11:34:59
+
+[52358] Log opened at 2021-01-18 04:14:04
+[52358] I: Connecting to configured address/port: localhost:9000.
+[52358] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[52358] E: Could not connect to client. :-(
+[52358] Log closed at 2021-01-18 04:14:04
+
+[80771] Log opened at 2021-01-18 08:24:26
+[80771] I: Connecting to configured address/port: localhost:9000.
+[80771] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[80771] E: Could not connect to client. :-(
+[80771] Log closed at 2021-01-18 08:24:26
+
+[81771] Log opened at 2021-01-18 08:31:12
+[81771] I: Connecting to configured address/port: localhost:9000.
+[81771] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[81771] E: Could not connect to client. :-(
+[81771] Log closed at 2021-01-18 08:31:12
+
+[81771] Log opened at 2021-01-18 08:35:38
+[81771] I: Connecting to configured address/port: localhost:9000.
+[81771] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[81771] E: Could not connect to client. :-(
+[81771] Log closed at 2021-01-18 08:35:38
+
+[81771] Log opened at 2021-01-18 08:39:48
+[81771] I: Connecting to configured address/port: localhost:9000.
+[81771] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[81771] E: Could not connect to client. :-(
+[81771] Log closed at 2021-01-18 08:39:48
+
+[81772] Log opened at 2021-01-18 09:52:23
+[81772] I: Connecting to configured address/port: localhost:9000.
+[81772] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[81772] E: Could not connect to client. :-(
+[81772] Log closed at 2021-01-18 09:52:23
+
+[92014] Log opened at 2021-01-18 10:51:52
+[92014] I: Connecting to configured address/port: localhost:9000.
+[92014] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[92014] E: Could not connect to client. :-(
+[92014] Log closed at 2021-01-18 10:51:52
+
+[92013] Log opened at 2021-01-18 11:16:51
+[92013] I: Connecting to configured address/port: localhost:9000.
+[92013] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[92013] E: Could not connect to client. :-(
+[92013] Log closed at 2021-01-18 11:16:51
+
+[6835] Log opened at 2021-01-18 11:42:25
+[6835] I: Connecting to configured address/port: localhost:9000.
+[6835] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6835] E: Could not connect to client. :-(
+[6835] Log closed at 2021-01-18 11:42:25
+
+[6835] Log opened at 2021-01-18 11:48:08
+[6835] I: Connecting to configured address/port: localhost:9000.
+[6835] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6835] E: Could not connect to client. :-(
+[6835] Log closed at 2021-01-18 11:48:08
+
+[6835] Log opened at 2021-01-18 13:00:06
+[6835] I: Connecting to configured address/port: localhost:9000.
+[6835] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6835] E: Could not connect to client. :-(
+[6835] Log closed at 2021-01-18 13:00:06
+
+[1625] Log opened at 2021-01-20 02:34:50
+[1625] I: Connecting to configured address/port: localhost:9000.
+[1625] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1625] E: Could not connect to client. :-(
+[1625] Log closed at 2021-01-20 02:34:50
+
+[14563] Log opened at 2021-01-20 03:18:14
+[14563] I: Connecting to configured address/port: localhost:9000.
+[14563] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[14563] E: Could not connect to client. :-(
+[14563] Log closed at 2021-01-20 03:18:14
+
+[21605] Log opened at 2021-01-20 03:21:56
+[21605] I: Connecting to configured address/port: localhost:9000.
+[21605] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[21605] E: Could not connect to client. :-(
+[21605] Log closed at 2021-01-20 03:21:56
+
+[22034] Log opened at 2021-01-20 03:23:20
+[22034] I: Connecting to configured address/port: localhost:9000.
+[22034] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[22034] E: Could not connect to client. :-(
+[22034] Log closed at 2021-01-20 03:23:20
+
+[22236] Log opened at 2021-01-20 03:27:52
+[22236] I: Connecting to configured address/port: localhost:9000.
+[22236] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[22236] E: Could not connect to client. :-(
+[22236] Log closed at 2021-01-20 03:27:52
+
+[22893] Log opened at 2021-01-20 04:00:35
+[22893] I: Connecting to configured address/port: localhost:9000.
+[22893] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[22893] E: Could not connect to client. :-(
+[22893] Log closed at 2021-01-20 04:00:35
+
+[27277] Log opened at 2021-01-20 06:40:51
+[27277] I: Connecting to configured address/port: localhost:9000.
+[27277] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[27277] E: Could not connect to client. :-(
+[27277] Log closed at 2021-01-20 06:40:51
+
+[25980] Log opened at 2021-01-20 07:13:56
+[25980] I: Connecting to configured address/port: localhost:9000.
+[25980] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[25980] E: Could not connect to client. :-(
+[25980] Log closed at 2021-01-20 07:13:56
+
+[60550] Log opened at 2021-01-20 08:45:03
+[60550] I: Connecting to configured address/port: localhost:9000.
+[60550] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[60550] E: Could not connect to client. :-(
+[60550] Log closed at 2021-01-20 08:45:03
+
+[5106] Log opened at 2021-01-20 12:13:52
+[5106] I: Connecting to configured address/port: localhost:9000.
+[5106] I: Connected to client. :-)
+[5106] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="5106" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[5106] <- feature_set -i 1 -n show_hidden -v 1
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[5106] <- feature_set -i 2 -n max_depth -v 1
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[5106] <- feature_set -i 3 -n max_children -v 100
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[5106] <- feature_set -i 4 -n extended_properties -v 1
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[5106] <- feature_set -i 5 -n notify_ok -v 1
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[5106] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[5106] <- stdout -i 7 -c 1
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[5106] <- status -i 8
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[5106] <- step_into -i 9
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[5106] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[5106] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[5106] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[5106] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[5106] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[5106] <- stack_get -i 15
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[5106] <- run -i 16
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[5106] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[5106] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="16" status="stopping" reason="ok"></response>
+
+[5106] <- run -i 17
+[5106] Log closed at 2021-01-20 12:13:55
+
+[7910] Log opened at 2021-01-20 12:26:53
+[7910] I: Connecting to configured address/port: localhost:9000.
+[7910] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[7910] E: Could not connect to client. :-(
+[7910] Log closed at 2021-01-20 12:26:53
+
+[10511] Log opened at 2021-01-20 14:57:13
+[10511] I: Connecting to configured address/port: localhost:9000.
+[10511] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[10511] E: Could not connect to client. :-(
+[10511] Log closed at 2021-01-20 14:57:13
+
+[54559] Log opened at 2021-01-21 11:14:34
+[54559] I: Connecting to configured address/port: localhost:9000.
+[54559] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[54559] E: Could not connect to client. :-(
+[54559] Log closed at 2021-01-21 11:14:34
+
+[54861] Log opened at 2021-01-21 11:27:53
+[54861] I: Connecting to configured address/port: localhost:9000.
+[54861] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[54861] E: Could not connect to client. :-(
+[54861] Log closed at 2021-01-21 11:27:53
+
+[62818] Log opened at 2021-01-21 12:35:57
+[62818] I: Connecting to configured address/port: localhost:9000.
+[62818] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[62818] E: Could not connect to client. :-(
+[62818] Log closed at 2021-01-21 12:35:57
+
+[45363] Log opened at 2021-01-25 08:41:41
+[45363] I: Connecting to configured address/port: localhost:9000.
+[45363] I: Connected to client. :-)
+[45363] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/magento/pub/errors/404.php" language="PHP" xdebug:language_version="7.4.13" protocol_version="1.0" appid="45363" idekey="PHPSTORM"><engine version="2.9.8"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2020 by Derick Rethans]]></copyright></init>
+
+[45363] <- feature_set -i 1 -n show_hidden -v 1
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[45363] <- feature_set -i 2 -n max_depth -v 1
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[45363] <- feature_set -i 3 -n max_children -v 100
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[45363] <- feature_set -i 4 -n extended_properties -v 1
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[45363] <- feature_set -i 5 -n notify_ok -v 1
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[45363] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[45363] <- stdout -i 7 -c 1
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="7" success="1"></response>
+
+[45363] <- status -i 8
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="8" status="starting" reason="ok"></response>
+
+[45363] <- step_into -i 9
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="9" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></xdebug:message></response>
+
+[45363] <- eval -i 10 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="10"><property type="bool"><![CDATA[0]]></property></response>
+
+[45363] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[1]]></property></response>
+
+[45363] <- eval -i 12 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="string" size="13" encoding="base64"><![CDATA[bmVvc29sYXgudGVzdA==]]></property></response>
+
+[45363] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="2" encoding="base64"><![CDATA[ODA=]]></property></response>
+
+[45363] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="19" encoding="base64"><![CDATA[L2FwcC9ldGMvY29uZmlnLnBocA==]]></property></response>
+
+[45363] <- stack_get -i 15
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="15"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/magento/pub/errors/404.php" lineno="7"></stack></response>
+
+[45363] <- run -i 16
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[U3RhdHVzOiA0MDQgTm90IEZvdW5kDQo=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg==]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jaw==]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[WC1GcmFtZS1PcHRpb25zOiBTQU1FT1JJR0lO]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Q29udGVudC10eXBlOiB0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTg=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[DQo=]]></stream>
+
+[45363] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[Cgo8IWRvY3R5cGUgaHRtbD4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiID4KPGhlYWQ+CiAgICA8dGl0bGU+RXJyb3IgNDA0OiBOb3QgRm91bmQ8L3RpdGxlPgogICAgPGJhc2UgaHJlZj0iaHR0cDovL25lb3NvbGF4LnRlc3QvZXJyb3JzL2RlZmF1bHQvIiAvPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9IioiLz4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHR5cGU9InRleHQvY3NzIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSJpbWFnZXMvZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgLz4KICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaW1hZ2VzL2Zhdmljb24uaWNvIiB0eXBlPSJpbWFnZS94LWljb24iIC8+CjwvaGVhZD4KPGJvZHk+CiAgICA8bWFpbiBjbGFzcz0icGFnZS1tYWluIj4KICAgICAgICAKPGgxPjQwNCBlcnJvcjogUGFnZSBub3QgZm91bmQuPC9oMT4KICAgIDwvbWFpbj4KPC9ib2R5Pgo8L2h0bWw+Cg==]]></stream>
+
+[45363] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="16" status="stopping" reason="ok"></response>
+
+[45363] <- run -i 17
+[45363] Log closed at 2021-01-25 08:41:43
+
+[48003] Log opened at 2021-01-25 09:03:00
+[48003] I: Connecting to configured address/port: localhost:9000.
+[48003] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[48003] E: Could not connect to client. :-(
+[48003] Log closed at 2021-01-25 09:03:00
+
+[48009] Log opened at 2021-01-25 09:20:44
+[48009] I: Connecting to configured address/port: localhost:9000.
+[48009] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[48009] E: Could not connect to client. :-(
+[48009] Log closed at 2021-01-25 09:20:44
+
+[5738] Log opened at 2021-02-11 06:31:06
+[5738] I: Connecting to configured address/port: localhost:9000.
+[5738] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[5738] E: Could not connect to client. :-(
+[5738] Log closed at 2021-02-11 06:31:06
+
+[56228] Log opened at 2021-03-23 09:56:01
+[56228] I: Connecting to configured address/port: localhost:9000.
+[56228] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[56228] E: Could not connect to client. :-(
+[56228] Log closed at 2021-03-23 09:56:01
+
+[57547] Log opened at 2021-03-23 10:21:40
+[57547] I: Connecting to configured address/port: localhost:9000.
+[57547] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[57547] E: Could not connect to client. :-(
+[57547] Log closed at 2021-03-23 10:21:40
+
+[57776] Log opened at 2021-03-23 10:42:34
+[57776] I: Connecting to configured address/port: localhost:9000.
+[57776] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[57776] E: Could not connect to client. :-(
+[57776] Log closed at 2021-03-23 10:42:34
+
+[68690] Log opened at 2021-03-23 10:57:45
+[68690] I: Connecting to configured address/port: localhost:9000.
+[68690] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[68690] E: Could not connect to client. :-(
+[68690] Log closed at 2021-03-23 10:57:45
+
+[6247] Log opened at 2021-03-23 13:08:05
+[6247] I: Connecting to configured address/port: localhost:9000.
+[6247] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[6247] E: Could not connect to client. :-(
+[6247] Log closed at 2021-03-23 13:08:05
+
+[70063] Log opened at 2021-05-15 11:19:22
+[70063] I: Connecting to configured address/port: localhost:9000.
+[70063] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[70063] E: Could not connect to client. :-(
+[70063] Log closed at 2021-05-15 11:19:22
+

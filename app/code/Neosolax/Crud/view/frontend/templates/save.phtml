@@ -1,0 +1,16 @@
+<?php
+/** @var Neosolax\Crud\Block\Save $block */
+?>
+<form name="crud" id="crud" action="<?php echo $block->getFormUrl() ?>" method="post">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname"><br><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname"><br><br>
+    <label for="dob">Date of Birthday:</label><br>
+    <input type="text" id="dob" name="dob"><br><br>
+    <label for="st_date">Start Date:</label><br>
+    <input type="text" id="st_date" name="st_date"><br><br>
+    <label for="tp">Contact Number:</label><br>
+    <input type="text" id="tp" name="contact"><br><br>
+    <input type="submit" value="Submit">
+</form>

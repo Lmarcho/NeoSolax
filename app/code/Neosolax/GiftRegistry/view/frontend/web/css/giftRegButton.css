@@ -1,0 +1,22 @@
+.custom-button {
+    background-image: none;
+    background: #1979c3;
+    border: 1px solid #1979c3;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    box-sizing: border-box;
+    vertical-align: middle;
+    float: left;
+    line-height: 2.2rem;
+    padding: 14px 17px;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    width: 49%;
+    border-radius: 3px;
+}
+.action, .primary {
+    float: left;
+}

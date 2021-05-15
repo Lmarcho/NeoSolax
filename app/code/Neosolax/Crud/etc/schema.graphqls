@@ -1,0 +1,19 @@
+type Query {
+    faqs : [Faqs] @resolver( class: "Neosolax\\Crud\\Model\\Resolver\\Faq")
+}
+
+type Mutation {
+    editEmploy(firstName: String, lastName: String, contact: String, dob: String): editEmployOutput@resolver(class:"Neosolax\\Crud\\Model\\Resolver\\Edit")
+}
+
+type Faqs {
+    firstName : String
+    lastName  : String
+    contact   : String
+    dob       : String
+}
+
+type editEmployOutput {
+    msg : String
+    error : String
+}

@@ -1,0 +1,21 @@
+<?php
+/** @var Neosolax\Crud\Block\Edit $block */
+
+$item = $block->getResult(); ?>
+
+<form name="crudedit" id="crudedit" action="<?php echo $block->getEditRecord() ?>" method="post">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value="<?php echo $item->getData('firstName'); ?>"><br><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value="<?php echo $item->getData('lastName'); ?>"><br><br>
+    <label for="dob">Date of Birthday:</label><br>
+    <input type="text" id="dob" name="dob" value="<?php echo $item->getData('dob'); ?>"><br><br>
+    <label for="st_date">Start Date:</label><br>
+    <input type="text" id="st_date" name="st_date" value="<?php echo $item->getData('startDate'); ?>"><br><br>
+    <label for="tp">Contact Number:</label><br>
+    <input type="text" id="tp" name="contact" value="<?php echo $item->getData('contact'); ?>"><br><br>
+    <input type="hidden" id="employee_id" name="employee_id" value="<?php echo $item->getData('employee_id'); ?>" />
+    <input type="submit" value="Edit">
+</form>
+
+

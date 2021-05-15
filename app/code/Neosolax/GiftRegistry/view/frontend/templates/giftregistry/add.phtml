@@ -1,0 +1,60 @@
+<?php
+/** @var Neosolax\GiftRegistry\Block\Giftregistry\Add $block */
+
+?>
+<h2>Welcome to Create new Giftregistry</h2>
+<form class="form-control col-8" name="giftregistry" id="giftreg" action="<?php echo $block->getFormUrl() ?>" method="post">
+
+    <label for="title">Giftregistry Type</label><br>
+    <div class="col-10">
+    <select name="gifttypeid" id="gifttypeid">
+        <option value="" selected hidden>Choose here</option>
+        <?php
+        $collection = $block->getGiftregTypes();
+        foreach ($collection as $item) {
+            ?>
+            <option value=<?php echo $item->getData('type_id'); ?>> <?php echo $item->getData('type_name'); ?> </option>
+        <?php
+        }
+        ?>
+    </select><br><br>
+    </div>
+
+    <label for="title">Gift Registry Title :</label><br>
+    <div class="col-10">
+    <input type="text" id="title" name="title"><br><br>
+    </div>
+
+    <label for="description">Description :</label><br>
+    <div class="col-10">
+    <input type="text" id="description" name="description"><br><br>
+    </div>
+
+    <label for="event_date">Event Date:</label><br>
+    <div class="col-10">
+    <input type="date" id="event_date" name="event_date"><br><br>
+    </div>
+
+
+    <label for="status">Status:</label><br>
+    <div class="col-10">
+    <select name="status" id="status">
+        <option value="" selected hidden>Choose here</option>
+        <option value=0>Active</option>
+        <option value=1>Inactive</option>
+    </select><br><br>
+    </div>
+
+    <label for="background_image">Background Image :</label><br>
+    <div class="col-10">
+    <input type="text" id="background_image" name="background_image"><br><br>
+    </div>
+
+    <label for="share_code">Share code :</label><br>
+    <div class="col-10">
+    <input type="text" id="share_code" name="share_code"><br><br>
+    </div>
+
+    <input class="btn btn-primary" type="submit" value="Submit">
+    <br><br>
+</form>

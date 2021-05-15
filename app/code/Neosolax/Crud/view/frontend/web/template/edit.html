@@ -1,0 +1,51 @@
+
+<div>
+    <!-- ko ifnot: editSaved -->
+
+    <form method="post" class="crudedit" id="crudedit" data-role="crudedit" data-bind="submit: submitEdit">
+            <div>
+                <label for="fname" class="label"><span>First Name</span></label>
+                <div>
+                    <input type="text" name="fname" id="fname" data-bind="value:fname">
+                </div>
+            </div>
+        <div>
+            <label for="lname" class="label"><span>Last Name</span></label>
+            <div>
+                <input type="text" name="lname" id="lname" data-bind="value:lname">
+            </div>
+        </div>
+        <div>
+            <label for="dob" class="label"><span>Date of Birthday</span></label>
+            <div>
+                <input type="text" name="dob" id="dob" data-bind="value:dob">
+            </div>
+        </div>
+        <div>
+            <label for="startDate" class="label"><span>Start Date</span></label>
+            <div>
+                <input type="text" name="startDate" id="startDate" data-bind="value:startDate">
+            </div>
+        </div>
+        <div>
+            <label for="contact" class="label"><span>Contact</span></label>
+            <div>
+                <input type="text" name="contact" id="contact" data-bind="value:contact">
+            </div>
+        </div>
+        <div>
+            <div class="primary">
+                <input type="hidden" id="employee_id" name="employee_id" >
+                <input type="submit" class="action primary" data-bind="value: $t('Submit Edit')" />
+            </div>
+        </div>
+    </form>
+    <!-- /ko -->
+
+    <!-- ko if: editSaved -->
+    <p data-bind="i18n: 'Edit is Completed'"></p>
+    <!-- /ko -->
+</div>
+
+
+

@@ -1,0 +1,20 @@
+<div data-bind="scope: 'koexample'">
+    <!-- ko template: getTemplate() -->
+    <p>I am example3.HTML template, dynamically loaded. This is my message to you:</p>
+    <p data-bind="text: time">Mon Mar 07 2016 12:58:30 GMT+0100 (CET)</p><!-- /ko -->
+</div>
+
+<script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "koexample": {
+                            "component": "Knock/js/view/koexample",
+                            "template" : "Knock/example"
+                        }
+                    }
+                }
+            }
+        }
+</script>

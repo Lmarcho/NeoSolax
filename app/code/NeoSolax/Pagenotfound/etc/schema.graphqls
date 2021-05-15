@@ -1,0 +1,8 @@
+type Mutation {
+    errorPageDetails(errorUrlData: String, customerIp: String): ErrorPageOutput @resolver( class:"\\NeoSolax\\Pagenotfound\\Model\\Resolver\\Save")
+}
+
+type ErrorPageOutput {
+    msg : String
+    error : String
+}

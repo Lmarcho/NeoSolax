@@ -1,0 +1,12 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <title> Manage Review </title>
+    </head>
+    <body>
+        <referenceContainer name="content">
+           <uiComponent name="neosolaxreview_review"/>
+            <!--<block class="Magento\Backend\Block\Template"
+                   template="NeoSolax_AdminReview::displayreview.phtml"/>-->
+        </referenceContainer>
+    </body>
+</page>

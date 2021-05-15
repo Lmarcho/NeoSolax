@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="NeoSolax_Pagenotfound::pagenotfound" title="404 Notifier" translate="title" module="NeoSolax_Pagenotfound" sortOrder="31"
+             resource="NeoSolax_Pagenotfound::pagenotfound"/>
+        <!-- START: new node -->
+        <add id="NeoSolax_Pagenotfound::pagenotfound_pagenotfound"
+             title="404 Notification" module="NeoSolax_Pagenotfound"
+             sortOrder="10" parent="NeoSolax_Pagenotfound::pagenotfound"
+             action="pagenotfound/errorpagedetails/index"
+             resource="NeoSolax_Pagenotfound::pagenotfound_notifier"
+        />
+        <!-- END:   new node -->
+
+    </menu>
+</config>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="NeoSolax_Slider::slider" title="Slider" translate="title" module="NeoSolax_Slider" sortOrder="30"
+             resource="NeoSolax_Slider::slider"/>
+        <!-- START: new node -->
+        <add id="NeoSolax_Slider::manage_slider"
+             title="Manage Slider" module="NeoSolax_Slider"
+             sortOrder="10" parent="NeoSolax_Slider::slider"
+             action="neoslider/slider/index"
+             resource="NeoSolax_Slider::manage_slider"
+        />
+        <!-- END:   new node -->
+        <!-- START: new node -->
+        <add id="NeoSolax_Slider::manage_banner"
+             title="Manage Banner" module="NeoSolax_Slider"
+             sortOrder="10" parent="NeoSolax_Slider::slider"
+             action="neoslider/banner/index"
+             resource="NeoSolax_Slider::manage_banner"
+        />
+        <!-- END:   new node -->
+    </menu>
+</config>

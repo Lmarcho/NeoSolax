@@ -1,0 +1,37 @@
+<?php
+/** @var Neosolax\Giftregistry\Block\Giftregistry\Index $block */
+?>
+<table>
+    <tr>
+        <th>Gift Registry Title</th>
+        <th>Description</th>
+        <th>Event Date</th>
+        <th>Status</th>
+        <th>Image</th>
+        <th>ShareLink </th>
+        <th>Action</th>
+    </tr>
+    <?php
+    $collection = $block->getResult();
+    foreach ($collection as $item) {
+        ?>
+        <tr>
+            <td><?php echo $item->getData('title'); ?></td>
+            <td><?php echo $item->getData('description'); ?></td>
+            <td><?php echo $item->getData('event_date'); ?></td>
+            <?php if ($value =$item->getData('status') == '0'): ?>
+                <td>Active</td>
+            <?php else : ?>
+                <td>Inactive</td>
+            <?php endif; ?>
+            <td><?php echo $item->getDate('background_image'); ?></td>
+            <td><?php echo $item->getData('share_code'); ?></td>
+            <td>
+                <a href="<?php echo $block->getUrl('giftregistry/item/index') . 'id/' . $item->getData('giftregistry_id'); ?>"><button>View</button></a>
+                <a href="<?php echo $block->getUrl('giftregistry/index/edit') . 'id/' . $item->getData('giftregistry_id'); ?>"><button>Edit</button></a>
+                <a href="<?php echo $block->getUrl('giftregistry/index/delete') . 'id/' . $item->getData('giftregistry_id'); ?>" ><button>Delete</button></a>
+            </td>
+        </tr>
+        <?php
+    } ?>
+</table>

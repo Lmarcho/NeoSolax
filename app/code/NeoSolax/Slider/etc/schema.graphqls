@@ -1,0 +1,41 @@
+type Query {
+    getSlider: sliderData
+    @resolver(class:"NeoSolax\\Slider\\Model\\Resolver\\HomeSlider")
+    @doc(description:
+    "The getSlider query returns information about a slider")
+    @cache(cacheable: false)
+}
+type sliderData @doc(description: "sliderData defines the slider name and other details") {
+    slider: sliderDetails
+    banner: [bannerDetails]
+}
+type sliderDetails @doc(description: "sliderDetails define slider data") {
+    id: Int
+    title: String
+    discription: String
+    time: Int
+    width: Int
+    hight: Int
+}
+type bannerDetails @doc(description: "bannerDetails define banner data") {
+    id: Int
+    slider_id: Int
+    title: String
+    discription: String
+    time_schedule_in: String
+    time_schedule_out: String
+    images: imagesDetails
+}
+type imagesDetails @doc(description: "imagesDetails define images data") {
+    id: Int
+    banner_id: Int
+    desktop_image_url: String
+    desktop_image_name: String
+    desktop_image_size: String
+    mobile_image_url: String
+    mobile_image_name: String
+    mobile_image_size: String
+    tab_image_url: String
+    tab_image_name: String
+    tab_image_size: String
+}

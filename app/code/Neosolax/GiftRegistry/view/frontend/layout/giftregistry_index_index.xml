@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <referenceContainer name="content">
+        <block class="Neosolax\GiftRegistry\Block\Giftregistry\Index" name="giftregistry_index"
+               template="Neosolax_GiftRegistry::giftregistry/index.phtml"
+               cacheable="false"/>
+        <!--        <block class="Magento\Wishlist\Block\Customer\Wishlist" name="customer.wishlist" template="Neosolax_GiftRegistry::giftregistryitem/view.phtml" cacheable="false">-->
+        <block class="Magento\Wishlist\Block\Customer\Wishlist" name="customer.wishlist" template="Magento_Wishlist::view.phtml" cacheable="false">
+            <!--            <block class="Magento\Theme\Block\Html\Pager" name="wishlist_item_pager"/>-->
+            <block class="Magento\Wishlist\Block\Customer\Wishlist\Items" name="customer.wishlist.items" as="items" template="Magento_Wishlist::item/list.phtml" cacheable="false">
+                <block class="Magento\Wishlist\Block\Customer\Wishlist\Item\Column\Image" name="customer.wishlist.item.image" template="Magento_Wishlist::item/column/image.phtml" cacheable="false"/>
+                <block class="Magento\Wishlist\Block\Customer\Wishlist\Item\Column\Info" name="customer.wishlist.item.name" template="Magento_Wishlist::item/column/name.phtml" cacheable="false"/>
+            </block>
+        </block>
+    </referenceContainer>
+</page>

@@ -1,0 +1,12 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="NeoSolax_AdminReview::neosolax" title="NeoSolax" translate="title" module="NeoSolax_AdminReview" sortOrder="40" resource="NeoSolax_AdminReview::neosolax"/>
+        <!--  START: new node  -->
+        <add id="NeoSolax_AdminReview::promotional_review" title="Promotional Review" translate="title" module="NeoSolax_AdminReview" sortOrder="10" parent="NeoSolax_AdminReview::neosolax"  resource="NeoSolax_AdminReview::neosolax"/>
+        <!--  END:   new node  -->
+        <!--  START: new node  -->
+        <add id="NeoSolax_AdminReview::manage_review" title="Review" translate="title" module="NeoSolax_AdminReview" sortOrder="30" parent="NeoSolax_AdminReview::neosolax" action="neosolaxreview/review/index" resource="NeoSolax_AdminReview::manage_review"/>
+        <!--  END:   new node  -->
+
+    </menu>
+</config>

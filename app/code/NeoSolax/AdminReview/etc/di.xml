@@ -1,0 +1,65 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+
+    <!-- Image Uploader -->
+    <virtualType name="ImageUploader" type="Magento\Catalog\Model\ImageUploader">
+        <arguments>
+            <argument name="baseTmpPath" xsi:type="string">neosolax/tmp/review</argument>
+            <argument name="basePath" xsi:type="string">neosolax/review</argument>
+            <argument name="allowedExtensions" xsi:type="array">
+                <item name="jpg" xsi:type="string">jpg</item>
+                <item name="jpeg" xsi:type="string">jpeg</item>
+                <item name="gif" xsi:type="string">gif</item>
+                <item name="png" xsi:type="string">png</item>
+            </argument>
+        </arguments>
+    </virtualType>
+    <type name="NeoSolax\AdminReview\Controller\Adminhtml\Review\Upload">
+        <arguments>
+            <argument name="imageUploader" xsi:type="object">ImageUploader</argument>
+        </arguments>
+    </type>
+    <type name="NeoSolax\AdminReview\Controller\Adminhtml\Review\Save">
+        <arguments>
+            <argument name="imageUploader" xsi:type="object">ImageUploader</argument>
+        </arguments>
+    </type>
+    <!-- End Image Uploader -->
+<!--    <type name="NeoSolax\AdminReview\Model\VideoUploader">-->
+<!--        <arguments>-->
+<!--            &lt;!&ndash; Temporary file stored in pub/media/faq/tmp/icon &ndash;&gt;-->
+<!--            <argument name="baseTmpPath" xsi:type="string">review/tmp/video</argument>-->
+<!--            <argument name="basePath" xsi:type="string">review/video</argument>-->
+<!--            <argument name="allowedExtensions" xsi:type="array">-->
+<!--                <item name="mp4" xsi:type="string">mp4</item>-->
+
+<!--            </argument>-->
+<!--        </arguments>-->
+<!--    </type>-->
+
+<!--     Video Uploader -->
+    <virtualType name="VideoUploader" type="Magento\Catalog\Model\ImageUploader">
+        <arguments>
+            <argument name="baseTmpPath" xsi:type="string">neosolax/tmp/review</argument>
+            <argument name="basePath" xsi:type="string">neosolax/review</argument>
+            <argument name="allowedExtensions" xsi:type="array">
+                <item name="mp4" xsi:type="string">mp4</item>
+            </argument>
+        </arguments>
+    </virtualType>
+    <type name="NeoSolax\AdminReview\Controller\Adminhtml\Review\UploadVideo">
+        <arguments>
+            <argument name="videoUploader" xsi:type="object">VideoUploader</argument>
+        </arguments>
+    </type>
+    <type name="NeoSolax\AdminReview\Controller\Adminhtml\Review\Save">
+        <arguments>
+            <argument name="videoUploader" xsi:type="object">VideoUploader</argument>
+        </arguments>
+    </type>
+    <!-- End Video Uploader -->
+</config>
+
+
+
+
+

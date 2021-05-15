@@ -1,0 +1,34 @@
+<div id="test-div" data-bind="scope:'test'">
+    <!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+<div data-bind="scope: 'koexample'">
+    <!-- ko template: getTemplate() -->
+    <p>I am example3.HTML template, dynamically loaded. This is my message to you:</p>
+    <p data-bind="text: time">Mon Mar 07 2016 12:58:30 GMT+0100 (CET)</p><!-- /ko -->
+</div>
+
+<script type="text/x-magento-init">
+       {
+              "Magento_Ui/js/core/app": {
+                    "components": {
+                        "koexample": {
+                            "component": "Knock/js/view/koexample",
+                            "template" : "Knock/example"
+                        }
+                        "#test-div": {
+                            "Magento_Ui/js/core/app": <?php echo $block->getJsLayout();?>
+                        }
+                    }
+                }
+       }
+</script>
+
+<script>
+    require([
+        'mage/url',
+        'Magento_Ui/js/block-loader'
+    ], function(url, blockLoader) {
+        blockLoader("<?php echo $block->getViewFileUrl('images/loader-1.gif'); ?>");
+        return url.setBaseUrl('<?php echo $block->getBaseUrl();?>');
+    })
+</script>

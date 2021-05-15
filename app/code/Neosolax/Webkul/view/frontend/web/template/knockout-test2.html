@@ -1,0 +1,50 @@
+<div class="customcomponent-wrapper" data-block="customcomponent">
+    <div class="block-content">
+        <form data-role="save"
+              data-bind="submit:save"
+              method="post">
+            <div class="fieldset"
+                 data-bind="attr: {'data-hasrequired': $t('* Required Fields')}">
+                <div class="field field-email required">
+                    <label class="label" for="save-email"><span data-bind="i18n: 'Email Address'"></span></label>
+                    <div class="control">
+                        <input type="email"
+                               class="input-text"
+                               id="save-email"
+                               name="email"
+                               data-validate="{required:true}" />
+                    </div>
+                </div>
+                <div class="field field-name required">
+                    <label for="login-name" class="label"><span data-bind="i18n: 'Customer Name'"></span></label>
+                    <div class="control">
+                        <input type="text"
+                               class="input-text"
+                               id="login-name"
+                               name="name"
+                               data-validate="{required:true}"
+                               autocomplete="off"/>
+                    </div>
+                </div>
+            </div>
+            <div class="actions-toolbar">
+                <input name="context" type="hidden" value="checkout" />
+                <div class="primary">
+                    <button type="submit" class="action action-save secondary"><span data-bind="i18n: 'Save Record'"></span></button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <table>
+        <thead>
+        <th data-bind="i18n: 'Customer Name'"></th>
+        <th data-bind="i18n: 'Customer Email'"></th>
+        </thead>
+        <tbody data-bind="foreach: getTotalCustomer()">
+        <tr>
+            <td data-bind="text: name"></td>
+            <td data-bind="text: email"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
